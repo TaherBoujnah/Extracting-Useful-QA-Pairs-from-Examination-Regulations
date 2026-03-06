@@ -7,7 +7,7 @@
 
 This project was developed as a **Bachelor Thesis** focused on **Natural Language Processing (NLP)** and **LLM applications**. It demonstrates how automated pipelines can transform dense academic regulations into user-friendly knowledge bases.
 
-**Author:** Taher Boujnah
+**Author:** Mohamed Taher Boujnah
 
 ---
 
