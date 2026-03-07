@@ -20,7 +20,7 @@ University examination regulations contain critical information about exams, gra
 * **Process** regulation documents and extract structured segments.
 * **Generate** candidate QA pairs using local Large Language Models (LLMs) like Gemma, Llama, and Qwen.
 * **Filter and evaluate** outputs against a manually curated "gold" dataset.
-* **Deploy** an interactive FAQ assistant using Chainlit.
+* **Deploy** a predefined retrieval based chatbot
 
 ---
 
