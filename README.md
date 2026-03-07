@@ -66,7 +66,7 @@ Below are the key visualizations generated during the research phase:
 │   ├── qa/             # Hybrid and Slow/HQ generation scripts
 │   ├── evaluation/     # Metrics and evaluation scripts
 │   └── retrieval/      # Embedding-based retrieval logic
-├── hainrich-master/           # Chatbot interface 
+├── hainrich-master/    # Chatbot interface 
 ├── data/               
 │   ├── gold/           # Human-curated reference dataset
 │   ├── final/          # Final selected FAQ pairs
