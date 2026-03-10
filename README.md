@@ -52,7 +52,7 @@ Based on experimental data, **Qwen 2.5 (7B)** using the **Hybrid** strategy achi
 Below are the key visualizations generated during the research phase:
 
 **Clustering of QA Pairs**
-![Cluster Overview](data/plots/cluster_circle.png)
+![Cluster Overview](data/plots/lda_cluster_circles.png)
 
 **Model Accuracy Comparison**
 ![Accuracy Success Rate](data/plots/10seeds/accuracy_success_rate.png)
