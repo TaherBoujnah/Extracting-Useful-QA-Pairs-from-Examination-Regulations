@@ -1,4 +1,4 @@
-# backend/qa/kmeans_select_and_lda_plot.py
+# backend/qa/kmeans_select_and_pca_plot.py
 import argparse
 import json
 from pathlib import Path
@@ -6,12 +6,9 @@ from typing import Dict, List
 
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.patches import Ellipse
-
+from sklearn.decomposition import PCA
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import KMeans
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
-
 
 def read_jsonl(path: Path) -> List[Dict]:
     rows: List[Dict] = []
@@ -22,13 +19,11 @@ def read_jsonl(path: Path) -> List[Dict]:
                 rows.append(json.loads(line))
     return rows
 
-
 def write_jsonl(path: Path, rows: List[Dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
         for r in rows:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
-
 
 def cosine_dist_to_centroid(emb: np.ndarray, idxs: np.ndarray) -> np.ndarray:
     X = emb[idxs]
@@ -36,7 +31,6 @@ def cosine_dist_to_centroid(emb: np.ndarray, idxs: np.ndarray) -> np.ndarray:
     centroid = centroid / (np.linalg.norm(centroid) + 1e-12)
     sims = X @ centroid
     return 1.0 - sims
-
 
 def choose_diverse_subset(labels: np.ndarray, emb: np.ndarray, target_total: int) -> List[int]:
     unique_labels = np.unique(labels)
@@ -65,27 +59,6 @@ def choose_diverse_subset(labels: np.ndarray, emb: np.ndarray, target_total: int
         
     return selected_idxs
 
-
-def add_cov_ellipse(ax, pts: np.ndarray, color: str):
-    """Draws a 95% confidence ellipse (circle) around a cluster of points."""
-    if pts.shape[0] < 3:
-        return
-    mean = pts.mean(axis=0)
-    cov = np.cov(pts.T)
-    vals, vecs = np.linalg.eigh(cov)
-    order = vals.argsort()[::-1]
-    vals, vecs = vals[order], vecs[:, order]
-    angle = np.degrees(np.arctan2(vecs[1, 0], vecs[0, 0]))
-    
-    # 5.991 is the chi-square value for 95% confidence in 2D
-    width = 2.0 * np.sqrt(vals[0] * 5.991)
-    height = 2.0 * np.sqrt(vals[1] * 5.991)
-    
-    e = Ellipse(xy=mean, width=width, height=height, angle=angle, 
-                fill=False, linewidth=1.5, edgecolor=color, alpha=0.7)
-    ax.add_patch(e)
-
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--input_jsonl", required=True)
@@ -93,54 +66,83 @@ def main():
     ap.add_argument("--plot_png", required=True)
     ap.add_argument("--embed_model", default="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
     ap.add_argument("--n_clusters", type=int, default=12)
-    ap.add_argument("--target_total", type=int, default=50) # CHANGED TO 50
+    ap.add_argument("--target_total", type=int, default=50)
 
     args = ap.parse_args()
 
+    # 1. Load data
     rows = read_jsonl(Path(args.input_jsonl))
     rows = [r for r in rows if (r.get("question") or "").strip() and (r.get("answer") or "").strip()]
-
     questions = [r["question"].strip() for r in rows]
+
+    # 2. Embed data
+    print("Embedding questions...")
     model = SentenceTransformer(args.embed_model)
     emb = model.encode(questions, normalize_embeddings=True, show_progress_bar=True).astype(np.float32)
 
+    # 3. K-Means Clustering
+    print("Running K-Means clustering...")
     km = KMeans(n_clusters=args.n_clusters, random_state=42, n_init=10)
     labels = km.fit_predict(emb)
 
+    # 4. Select Subset
     chosen_idxs = choose_diverse_subset(labels, emb, args.target_total)
     selected = [rows[i] for i in chosen_idxs]
     write_jsonl(Path(args.out_jsonl), selected)
 
-    lda = LDA(n_components=2)
-    XY = lda.fit_transform(emb, labels)
+    # 5. PCA Dimensionality Reduction
+    print("Running PCA for visualization...")
+    pca = PCA(n_components=2)
+    reduced_embeddings = pca.fit_transform(emb)
 
-    fig, ax = plt.subplots(figsize=(10, 7))
+    # 6. Plotting
+    fig, ax = plt.subplots(figsize=(10, 7), dpi=300)
 
+    # Create a mask for discarded questions
     mask = np.ones(len(rows), dtype=bool)
     mask[chosen_idxs] = False
-    ax.scatter(XY[mask, 0], XY[mask, 1], c='gray', s=15, alpha=0.15, label="Discarded")
+    
+    # Plot Discarded Background
+    ax.scatter(
+        reduced_embeddings[mask, 0], 
+        reduced_embeddings[mask, 1], 
+        c='lightgrey', 
+        alpha=0.4, 
+        s=20, 
+        label='Discarded FAQs'
+    )
 
+    # Plot Selected Questions (Colored by Cluster)
     cmap = plt.get_cmap('tab20')
     unique_chosen_labels = np.unique(labels[chosen_idxs])
     
-    for i, lab in enumerate(unique_chosen_labels):
-        idx_for_lab = [idx for idx in chosen_idxs if labels[idx] == lab]
-        color = cmap(i % 20)
-        
-        # Plot the points
-        ax.scatter(XY[idx_for_lab, 0], XY[idx_for_lab, 1], 
-                   color=color, s=60, alpha=0.95, edgecolors='black')
-        
-        # Draw the "Circle" (Ellipse) around the points
-        add_cov_ellipse(ax, XY[idx_for_lab], color=color)
+    for cluster_id in unique_chosen_labels:
+        idx_for_this_cluster = [idx for idx in chosen_idxs if labels[idx] == cluster_id]
+        if idx_for_this_cluster:
+            ax.scatter(
+                reduced_embeddings[idx_for_this_cluster, 0], 
+                reduced_embeddings[idx_for_this_cluster, 1], 
+                color=cmap(cluster_id % 20), 
+                edgecolor='black',
+                linewidth=1,
+                s=80, 
+                alpha=0.9,
+                label=f'Selected (Cluster {cluster_id})'
+            )
 
-    ax.set_title(f"LDA Projection with Cluster Boundaries\nTotal Selected: {len(selected)} FAQs")
-    ax.set_xlabel("LDA Component 1")
-    ax.set_ylabel("LDA Component 2")
-    ax.grid(True, alpha=0.2)
-    fig.savefig(args.plot_png, dpi=200, bbox_inches="tight")
+    ax.set_title(f'PCA Projection of FAQ Knowledge Base\n(50 Selected Questions across {args.n_clusters} Clusters)', fontsize=14)
+    ax.set_xlabel('Principal Component 1', fontsize=12)
+    ax.set_ylabel('Principal Component 2', fontsize=12)
+    
+    # Legend outside the plot
+    ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=9)
+    ax.grid(True, alpha=0.3)
+    fig.tight_layout()
 
-    print(f"✅ Saved {len(selected)} FAQs and Plot with cluster boundaries!")
+    # Save and show
+    fig.savefig(args.plot_png, bbox_inches='tight')
+    print(f"✅ Saved {len(selected)} FAQs and PCA Plot successfully to {args.plot_png}!")
+    plt.show()
 
 if __name__ == "__main__":
     main()
