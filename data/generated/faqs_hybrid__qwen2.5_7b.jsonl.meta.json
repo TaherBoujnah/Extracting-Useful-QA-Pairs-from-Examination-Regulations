@@ -1,0 +1,11 @@
+{
+  "model": "qwen2.5:7b",
+  "strategy": "true_bundle",
+  "runtime_seconds": 365.08,
+  "written_qas": 53,
+  "settings": {
+    "seed_limit": 10,
+    "qas_per_seed": 6,
+    "max_context_words": 2500
+  }
+}

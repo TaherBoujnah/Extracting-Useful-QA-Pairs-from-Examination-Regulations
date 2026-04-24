@@ -1,0 +1,11 @@
+{
+  "model": "llama3.1:8b",
+  "strategy": "true_bundle",
+  "runtime_seconds": 463.38,
+  "written_qas": 55,
+  "settings": {
+    "seed_limit": 10,
+    "qas_per_seed": 6,
+    "max_context_words": 2500
+  }
+}

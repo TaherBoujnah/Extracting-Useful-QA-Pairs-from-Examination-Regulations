@@ -1,0 +1,6 @@
+{
+  "model": "llama3.1:8b",
+  "strategy": "single_chunk_baseline",
+  "runtime_seconds": 391.56,
+  "written_qas": 56
+}

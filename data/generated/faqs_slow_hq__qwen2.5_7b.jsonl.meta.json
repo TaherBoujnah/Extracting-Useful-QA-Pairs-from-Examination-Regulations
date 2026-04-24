@@ -1,0 +1,6 @@
+{
+  "model": "qwen2.5:7b",
+  "strategy": "single_chunk_baseline",
+  "runtime_seconds": 324.61,
+  "written_qas": 60
+}
