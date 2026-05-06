@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pydantic
-numpy
-sentence-transformers
-torch
-python-dotenv
-matplotlib
-scikit-learn

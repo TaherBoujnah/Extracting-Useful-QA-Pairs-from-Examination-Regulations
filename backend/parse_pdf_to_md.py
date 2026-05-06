@@ -9,7 +9,7 @@ PDF_PATH = DATA_DIR / "exam_regulations.pdf"
 OUTPUT_MD_PATH = DATA_DIR / "parsed_regulations.md"
 
 # Put your actual LlamaCloud API Key here
-API_KEY = "llx-HYTvSKUlnIwCcqFfQvan3xvjS7FGrByybM8cKybtFOiZfKdZ"
+API_KEY = "your_llamacloud_api_key_here"
 BASE_URL = "https://api.cloud.llamaindex.ai/api/parsing"
 
 def parse_via_rest():
