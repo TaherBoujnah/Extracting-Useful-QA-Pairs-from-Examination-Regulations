@@ -1,0 +1,1329 @@
+# General Bachelor Rules
+
+---
+
+# Neubekanntmachung der Prüfungsordnung für die Studiengänge
+
+## Informatik und Artificial Intelligence and Data Science, Physik und Naturwissenschaften mit dem Abschluss „Bachelor of Science“ an der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf
+
+in der Fassung der Fünften Ordnung zur Änderung der Prüfungsordnung für die Studiengänge Informatik und Artificial Intelligence and Data Science, Physik und Naturwissenschaften mit dem Abschluss „Bachelor of Science“ an der Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf vom 26.11.2021 (Amtliche Bekanntmachung Nr. 53/2021)
+
+Aufgrund des § 2 Abs. 4 und des § 64 Abs. 1 des Gesetzes über die Hochschulen des Landes Westfalen (Hochschulgesetz – HG) vom 16. September 2014 (GV.NRW S. 547), zuletzt geändert durch Artikel 2 des Gesetzes vom 25. März 2021 (GV.NRW S. 331), hat die Heinrich-Heine-Universität Düsseldorf die folgende Ordnung erlassen:
+
+## Inhaltsübersicht
+
+- **Artikel I**
+- § 1 Geltungsbereich
+- § 2 Studium: Ziel
+- § 3 Studium: Aufbau
+- § 4 Prüfungsausschuss
+- § 5 Prüfer und Prüferinnen
+- § 6 Bachelorprüfung: Zweck
+- § 7 Bachelorprüfung: Zulassung
+- § 8 Bachelorprüfung: Regeln
+- § 9 Anerkennung von Studien- und Prüfungsleistungen
+- § 10 Modulprüfungen: Regeln
+- § 11 Modulprüfungen: An- und Abmeldung, Fristen
+- § 12 Modulprüfungen: Bewertung, Notenskala
+- § 13 Modulprüfungen: Bestehen und Nichtbestehen
+- § 14 Modulprüfungen: Wiederholung
+- § 15 Modulprüfungen: Versäumnis, Rücktritt, Täuschung und Ordnungsverstoß
+- § 16 Bachelorarbeit: Themenstellung
+- § 17 Bachelorarbeit: Bewertung und Annahme
+- § 18 Bachelorarbeit: Wiederholung
+- § 19 Zusatzmodule
+- § 20 Einsicht in die Prüfungsakten
+
+HHU Amtliche Bekanntmachungen Nr. 53/2021
+
+---
+
+# Prüfungsordnung
+
+## § 21 Bachelorprüfung: Bewertung
+
+## § 22 Bachelorprüfung: Nichtbestehen
+
+## § 23 Bachelorprüfung: Akademischer Grad, Zeugnis, Urkunde
+
+## § 24 Bachelorprüfung: Ungültigkeit
+
+## § 25 Übergangsbestimmungen
+
+### Artikel II
+
+## § 26 Inkrafttreten und Veröffentlichung
+
+## Fachspezifischer Anhang
+
+
+- Studiengangsvariante Quantitative Informatik und Artificial Intelligence and Data Science
+
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## Artikel I
+
+### § 1 Geltungsbereich
+(1) Diese Prüfungsordnung gilt für die Studiengänge „Biochemie“ (inkl. der Studiengangsvariante „BiochemiePLUS/International“), „Informatik und Artificial Intelligence and Data Science, „Physik“ und „Naturwissenschaften“ mit dem Abschluss Bachelor of Science an der Fakultät der Heinrich-Heine-Universität Düsseldorf. Fachspezifische Regelungen finden sich im jeweiligen Anhang, der Bestandteil dieser Ordnung ist.
+
+### § 2 Studium: Qualifikationsziele
+(1) Der Bachelorstudiengang soll den Studierenden eine fundierte wissenschaftliche Grundausbildung in ihrem Fach vermitteln. Dabei sollen sie die grundlegenden fachlichen Fähigkeiten, Kenntnisse und Methoden erwerben, die zu qualifiziertem und verantwortlichem Handeln in der Berufspraxis erforderlich sind und die es ermöglichen, wissenschaftliche und technische Fortschritte in die berufliche Praxis einzubeziehen und sich auf Veränderungen in den Anforderungen der Berufswelt einzustellen.
+(2) Der Bachelorstudiengang beinhaltet eine Einführung in die Grundsätze der „Guten wissenschaftlichen Praxis“ gemäß den Richtlinien der Deutschen Forschungsgemeinschaft in geeigneter Form.
+
+### § 3 Studium: Aufbau
+(1) Die Studienzeit, in der der Bachelorgrad bei einem Studium in Vollzeit in der Regel erworben werden soll (Regelstudienzeit), beträgt sechs Semester einschließlich der Ablegung aller Modulprüfungen und der Anfertigung der Bachelorarbeit. Der Bachelorstudiengang ist so konzipiert, dass er mit einem durchschnittlichen Arbeitsaufwand (work load) von 900 Stunden pro Semester abgeschlossen werden kann.
+(2) In den Bachelorstudiengängen „Informatik“, „Mathematik und Anwendungsgebiete“ und „Physik“ kann das Studium auch in Teilzeit erfolgen. Bei einem Studium in Teilzeit sind die gleichen Module zu absolvieren wie bei einem Vollzeitstudium. Die Regelstudienzeit für das Studium in Teilzeit beträgt 10 Semester. Der durchschnittliche Arbeitsaufwand (work load) für das Studium in Teilzeit pro Semester ist somit auf 540 Stunden reduziert. Die Studienpläne für ein Studium in Teilzeit werden vom jeweiligen Prüfungsausschuss des Faches bekanntgegeben. Die Einschreibung kann nur erfolgen, wenn die Teilnahme an einer auf das Studium in Teilzeit ausgerichteten individuellen Fachstudienberatung nachgewiesen wird.
+(3) Studierende müssen vor Aufnahme des Studiums bei der Studierenden- und Prüfungsverwaltung festlegen, ob sie ihr Studium in Vollzeit oder in Teilzeit absolvieren. Erfolgt keine Festlegung, so gilt, dass das Studium in Vollzeit absolviert wird. Ein Wechsel zwischen Teilzeit- und Vollzeitstudium ist zu Beginn jedes Semesters möglich und muss bei der Studierenden- und Prüfungsverwaltung vor Semesterbeginn beantragt werden.
+(4) Während eines Semesters, das in Teilzeit absolviert wird, kann ein Studierender in der Regel nur 18, maximal jedoch 23 Leistungspunkte erwerben. Leistungspunkte, die durch Wiederholung von nicht bestandenen Prüfungen erworben werden, zählen nicht zu den maximalen Leistungspunkten.
+
+---
+
+# Prüfungsordnung
+
+## § 4 Prüfungsausschuss
+
+(1) Für die Organisation der Prüfungen und für die durch diese Prüfungsordnung zugewiesenen Aufgaben wählt der Fakultätsrat der Mathematisch-Naturwissenschaftlichen Fakultät der Universität Düsseldorf für jeden Studiengang einen Prüfungsausschuss.
+
+(2) Der Prüfungsausschuss besteht aus fünf Mitgliedern:
+- Vorsitzende/r (aus der Gruppe der Professor/inn/en)
+- Stellvertreter/in des/der Vorsitzenden (aus der Gruppe der Professor/inn/en)
+- einem weiteren Mitglied aus der Gruppe der Professor/inn/en
+- einem Mitglied aus der Gruppe der wissenschaftlichen Mitarbeiter/innen
+- einem Mitglied aus der Gruppe der Studierenden des entsprechenden Studiengangs
+
+Für die letzten drei Mitglieder werden jeweils auch Stellvertreter/innen aus derselben Gruppe gewählt. Jede Gruppe kann dem Fakultätsrat Wahlvorschläge für ihre Mitglieder und deren Vertreter/innen unterbreiten. Die Amtszeit beträgt ein Jahr für die Studierenden und drei Jahre für die übrigen Mitglieder und ihre Vertreter/innen. Die Wiederwahl von Mitgliedern ist möglich. Scheidet ein Mitglied vorzeitig aus, wird eine Nachfolgerin oder ein Nachfolger für die restliche Amtszeit gewählt. Weitergehende Bestimmungen zur Zusammensetzung des Prüfungsausschusses finden sich im spezifischen Anhang.
+
+(3) Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden und sorgt für die ordnungsgemäße Durchführung der Prüfungen. Er ist insbesondere zuständig für die Anerkennung von Studien- und Prüfungsleistungen gemäß § 9 und für die Entscheidung über Widersprüche gegen Entscheidungen, die in Prüfungsverfahren getroffen wurden.
+
+(4) Der Prüfungsausschuss kann die Erledigung seiner Aufgaben für alle Regelfälle auf die Vorsitzende/den Vorsitzenden oder deren/dessen Stellvertreter/in übertragen. Dies gilt nicht für Entscheidungen über Widersprüche.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## § 5 Prüferinnen und Prüfer
+
+(1) Der Prüfungsausschuss ist für die Bestellung der Prüferinnen und Prüfer für Modulprüfungen (§ 10) und für die Bachelorarbeit (§ 16) verantwortlich. Er kann diese Bestellung der/dem Vorsitzenden tragen.
+
+(2) Zur Prüferin oder zum Prüfer in Modulprüfungen darf nur bestellt werden, wer zu dem in § 65 Abs. 1 HG genannten Personenkreis gehört.
+
+(3) Für Modulprüfungen gilt im Regelfall diejenige Person als zur Prüferin/zum Prüfer bestellt, die zuletzt für die Durchführung des geprüften Moduls verantwortlich war.
+
+(4) Die Prüferinnen und Prüfer sind in ihrer Prüfungstätigkeit unabhängig.
+
+(5) Bei Wiederholung einer mündlichen Prüfung kann der Prüfling beim Prüfungsausschuss mit einer schriftlichen Begründung eine neue Prüferin/einen neuen Prüfer vorschlagen. Dabei ist Abs. 2 zu achten. Der Vorschlag begründet keinen Anspruch, nach Möglichkeit soll darauf aber Rücksicht genommen werden.
+
+(6) Prüfungsleistungen in Wiederholungsprüfungen, bei deren endgültigem Nichtbestehen keine Gleichsmöglichkeit vorgesehen ist, sind von mindestens zwei Prüferinnen bzw. Prüfern zu bewerten.
+
+(7) Mündliche Prüfungen sind stets von mehreren Prüferinnen/Prüfern oder von einer Prüferin/einem Prüfer in Gegenwart eines sachkundigen Beisitzes abzunehmen. Zur Beisitzerin/zum Beisitzer für mündliche Prüfungen darf nur bestellt werden, wer jenen Studiengang, in dem die Prüfung abgelegt wird, oder einen verwandten Studiengang abgeschlossen hat.
+
+(8) Die Prüfer und Beisitzer unterliegen der Amtsverschwiegenheit. Prüfer, die nicht im öffentlichen Dienst stehen, sind durch die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses zur Verschwiegenheit zu verpflichten. Beisitzer/innen werden von den bestellten Prüfern zur Verschwiegenheit verpflichtet.
+
+----
+
+## Sitzung des Prüfungsausschusses
+
+(5) Der Prüfungsausschuss ist beschlussfähig, wenn neben zwei Professorinnen oder Professoren noch mindestens ein weiteres stimmberechtigtes Mitglied anwesend ist. Der Ausschuss beschließt mit der Mehrheit der Stimmen der anwesenden Mitglieder; bei Stimmengleichheit entscheidet die Stimme des/der Vorsitzenden bzw. im Vertretungsfall die Stimme des Stellvertreters oder der Stellvertreterin der/des Vorsitzenden. Die studentischen Mitglieder des Prüfungsausschusses sind bei der Beurteilung, Anerkennung oder Anrechnung von Studien- und Prüfungsleistungen sowie bei der Bestellung von Prüfern und Beisitzern nicht stimmberechtigt. Die Stellvertreter/innen dürfen an den Sitzungen teilnehmen, haben aber nur dann Stimmrecht, wenn das vertretene Mitglied nicht anwesend ist.
+
+(6) Die Sitzungen des Prüfungsausschusses sind nicht öffentlich. Die Mitglieder des Ausschusses und deren Vertreterinnen und Vertreter unterliegen der Amtsverschwiegenheit. Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch den Vorsitzenden oder die Vorsitzende des Ausschusses zur Verschwiegenheit zu verpflichten.
+
+(7) Die Mitglieder des Prüfungsausschusses haben das Recht, bei Prüfungen anwesend zu sein.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 6 Bachelorprüfung: Zweck
+(1) Die Bachelorprüfung bildet den berufsqualifizierenden Abschluss des Bachelorstudiengangs. Durch diese Prüfung soll festgestellt werden, ob die in § 2 genannten Ziele erreicht wurden.
+
+## § 7 Bachelorprüfung: Zulassung
+(1) Zur Bachelorprüfung kann nur zugelassen werden, wer an der Heinrich-Heine-Universität Düsseldorf für den entsprechenden Bachelorstudiengang eingeschrieben oder gemäß § 52 Abs. 2 HG als hörer/in zugelassen ist.
+
+(2) Die Zulassung zur Bachelorprüfung muss abgelehnt werden, wenn
+- die Voraussetzung gemäß Abs. 1 nicht erfüllt ist oder
+- wenn der Prüfling eine Prüfung in demselben oder einem nahe verwandten Studiengang an einer anderen wissenschaftlichen Hochschule im Geltungsbereich des Gesetzes endgültig nicht bestanden hat.
+
+(3) Ein Studierender ist zur Bachelorprüfung angemeldet, sobald er sich gemäß § 11 erstmals zu einer Modulprüfung angemeldet hat.
+
+## § 8 Bachelorprüfung: Regeln
+(1) Die Bachelorprüfung besteht aus den studienbegleitenden Modulprüfungen gemäß § 10 und aus der Bachelorarbeit gemäß § 16. Die Bachelorprüfung soll in der Regel vor dem Ende des sechsten Fachsemesters abgeschlossen sein.
+
+(2) Durch die Modulprüfungen, die Bachelorarbeit und anrechenbare Studienleistungen müssen nach Maßgabe des fachspezifischen Anhangs insgesamt mindestens 180 Leistungspunkte erworben werden.
+
+(3) Ein Leistungspunkt (LP) im Sinne dieser Prüfungsordnung entspricht einem ECTS-Punkt (European Credit Transfer System) und wird für eine Leistung vergeben, die einen Arbeitsaufwand (work load) von etwa 30 Stunden erfordert, wenn der Erfolg dieser Arbeit durch eine Modulprüfung oder eine anrechenbare Studienleistung nachgewiesen ist.
+
+(4) Prüfungsleistungen im Sinne dieser Prüfungsordnung werden durch benotete Prüfungen erbracht und begründen die Modulnote gemäß § 12.
+
+(5) Studienleistungen im Sinne dieser Prüfungsordnung werden durch die aktive Teilnahme an Lehrveranstaltungen erbracht. Studienleistungen sind unbenotet.
+
+(6) Macht die Kandidatin oder der Kandidat durch ärztliches Zeugnis glaubhaft, dass sie oder er wegen länger andauernder Krankheit oder ständiger seelischer oder körperlicher Behinderung nicht in der Lage ist, die Prüfungsleistung ganz oder teilweise in der vorgeschriebenen Form oder Zeit zu erbringen, ist ihr oder ihm durch den Prüfungsausschuss im Sinne des Nachteilsausgleichs zu ermöglichen, wertige Prüfungsleistungen in einer anderen Form zu erbringen. Vor Entscheidungen des Ausschusses soll die oder der Beauftragte für Studierende mit Behinderung oder chronischer Erkrankung mit Zustimmung der Kandidatin oder des Kandidaten um ein Votum gebeten werden. Ein Antrag auf Nachteilsausgleich muss spätestens vier Wochen vor der jeweiligen Prüfung in schriftlicher Form beim Prüfungsausschuss gestellt werden.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## § 9 Anerkennung von Studien- und Prüfungsleistungen
+
+1. Gleichwertige Studienleistungen und Prüfungsleistungen, die im gleichen oder einem nahen Studiengang an einer anderen Universität oder einer gleichgestellten Hochschule erbracht wurden, werden auf Antrag anerkannt. Die für die Anerkennung erforderlichen Unterlagen sind vom Antragsteller beizubringen.
+
+2. Studienleistungen und Prüfungsleistungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.
+
+3. Die Gleichwertigkeit von Studien- und Prüfungsleistungen ist festzustellen, wenn diese in Inhalt, Umfang und Anforderungen denjenigen im hier geregelten Bachelorstudiengang im Wesentlichen entsprechen oder sie übertreffen. Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Bei Studien- und Prüfungsleistungen, die in Staaten erbracht wurden, die dem Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der Europäischen Region vom 11.04.1997 – sog. Lissabonner Anrechnungskonvention – beigetreten sind, erfolgt eine Anrechnung nur dann nicht, wenn wesentliche Unterschiede in den zu vergleichenden Leistungen festgestellt werden. Die Beweislast für die Ablehnungsgründe obliegt dem Ausschuss. Gegen eine Ablehnung kann gemäß § 63a Abs. 5 HG eine Überprüfung der Entscheidung durch das Rektorat beantragt werden.
+
+4. Bei der Anerkennung und Anrechnung von Studienabschlüssen, Studien- und Prüfungsleistungen, die außerhalb des Geltungsbereiches des Grundgesetzes erbracht wurden, sind die von der Ministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften zu beachten.
+
+5. Wer aufgrund einer Einstufungsprüfung gemäß § 49 Abs. 11 HG berechtigt ist, das Studium aufzunehmen, dem werden die in der Einstufungsprüfung nachgewiesenen Kenntnisse und Fähigkeiten, die Inhalten des hier geregelten Bachelorstudiengangs entsprechen, als Prüfungsleistungen angerechnet. Die diesbezüglichen Feststellungen im Zeugnis über die Einstufungsprüfung sind für den Ausschuss bindend.
+
+6. Zuständig für Anerkennung und Anrechnung nach den Absätzen 1 bis 5 und für die Zuordnung der anzuerkennenden Studien- und Prüfungsleistungen zu den einzelnen Modulen ist der Ausschuss. Die oder der Studierende muss die für die Anrechnung erforderlichen Unterlagen vorlegen. Vor Feststellung der Gleichwertigkeit können zuständige Fachvertreter gehört werden.
+
+----
+
+**Hinweis:** Die oben genannten Regelungen sind Teil der amtlichen Bekanntmachungen der HHU (Heinrich-Heine-Universität) und gelten für das Jahr 2021.
+
+---
+
+# Prüfungsordnung für den Bachelorstudiengang
+
+## § 9 Anerkennung von Prüfungsleistungen
+
+(7) Werden Prüfungsleistungen für den hier geregelten Bachelorstudiengang anerkannt, so werden die Noten übernommen (soweit die Notensysteme vergleichbar sind) und nach Maßgabe dieser Ordnung in die Berechnung der Gesamtnote einbezogen. Bei unvergleichbaren Notensystemen wird der Vermerk „bestanden“ aufgenommen. Eine Kennzeichnung der Anerkennung im Zeugnis ist zulässig.
+
+(8) Können gleichwertige, außerhalb des Hochschulbereiches erworbene Kompetenzen und Fähigkeiten nachgewiesen werden, so können diese bis zu maximal der Hälfte der vorgesehenen Leistungspunkte für den Bachelorstudiengang angerechnet werden. Der Prüfungsausschuss entscheidet in diesem Fall über die Gleichwertigkeitsprüfung.
+
+(9) Im Falle der Anerkennung einer auswärtigen Studienleistung darf kein Modul mit vergleichbarem Inhalt im Bachelorstudiengang an der Heinrich-Heine-Universität Düsseldorf erneut besucht werden. Anerkennungsanträge müssen deshalb spätestens drei Monate nach Aufnahme des Studiums an der Heinrich-Heine-Universität Düsseldorf und vor der Anmeldung zu inhaltlich vergleichbaren Modulen gestellt werden. Anerkennungen zu einem späteren Zeitpunkt sind nicht möglich. Sollte bereits an der Heinrich-Heine-Universität Düsseldorf eine Prüfung in einem zur Anrechnung beantragten Modul abgelegt worden sein, ist eine Anerkennung einer andernorts absolvierten Studienleistung für dieses Modul ausgeschlossen.
+
+(10) Eine Anerkennung andernorts abgeschlossener Bachelorarbeiten ist in der Regel nicht möglich.
+
+## § 10 Modulprüfungen: Allgemeine Regeln, Zugangsbeschränkungen
+
+(1) Eine Modulprüfung hat als Gegenstand die Inhalte eines Moduls. Die Prüfungsleistungen werden studienbegleitend, in engem zeitlichen Anschluss an den Besuch der betreffenden Lehrveranstaltungen des Moduls erbracht.
+
+(2) Ein Modul umfasst eine oder mehrere Lehrveranstaltungen. Dabei kann der Prüfling dieselbe Lehrveranstaltung nicht als Bestandteil verschiedener Module eines Studiengangs wählen.
+
+(3) Für einzelne Module oder Lehrveranstaltungen kann z.B. aus didaktischen, kapazitären oder lichen Gründen eine Zulassungsbeschränkung (maximale Teilnehmerzahl) festgelegt werden. Die Festlegung und Veröffentlichung sowie die Benennung der Kriterien erfolgt durch den jeweiligen Ausschuss vor Beginn der Anmeldefristen. Für die Rangfolge bei der Zulassung der Studierenden werden folgende Kriterien herangezogen:
+- Studiengang, für den das Modul/die Lehrveranstaltung belegt wird;
+- Fachsemester des Studierenden;
+- Bisherige Studienleistungen.
+
+(4) Für jedes Modul werden die Inhalte der geforderten Prüfungsleistungen und/oder Studienleistungen vom Prüfungsausschuss bekannt gemacht. In der Regel sind diese Inhalte in den vom Ausschuss veröffentlichten Modulbeschreibungen festgelegt.
+
+(5) Art und genaue Durchführung einer Modulprüfung werden von den gemäß § 5 bestellten Prüfern festgelegt. Für jede Modulprüfung wird den Studierenden per Internet und/oder Aushang bekannt gegeben:
+- Zulassungsvoraussetzungen (z.B. bestimmte Studienleistungen);
+- Art, Umfang und Dauer der zu erbringenden Prüfungsleistungen;
+- erlaubte Hilfsmittel;
+- Verfahren, mit dem die Note ermittelt bzw. der Erfolg festgestellt wird.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## Modulprüfungen
+
+(6) In der Regel werden Modulprüfungen zu drei Terminen pro Studienjahr im Abstand von mindestens 3 Wochen angeboten:
+- Zeitnah im Anschluss an die letzte Lehrveranstaltung des Moduls.
+- Innerhalb von 6 Monaten nach dem ersten Termin.
+- Innerhalb von 6 Monaten nach dem zweiten Termin.
+
+Die Prüfungstermine werden zu Beginn der Lehrveranstaltungen des Moduls oder spätestens drei Monate vor jeder Prüfung bekannt gegeben. Bei mündlichen Prüfungen werden statt konkreter Termine Terminfenster bekannt gegeben.
+
+(7) Modulprüfungen haben in der Regel die Form einer Modulabschlussprüfung. Sie haben den Lernstoff des gesamten Moduls zum Inhalt. Modulprüfungen können von der Prüferin/vom Prüfer als Klausuren, mündliche Prüfungen und in anderer Form (z.B. Vorträge oder Abschlussberichte) festgelegt werden.
+
+(8) Eine Klausur ist eine schriftliche Arbeit unter Aufsicht, die von der Prüferin/vom Prüfer gestellt und mit einer Note bewertet wird. Die Dauer von Klausuren soll 1 Stunde nicht unterschreiten und 4 Stunden nicht überschreiten.
+
+(9) Eine mündliche Prüfung ist eine Einzel- oder Gruppenprüfung mit maximal 6 Prüflingen. Die Dauer einer mündlichen Prüfung soll 15 Minuten pro Prüfling nicht unterschreiten und 60 Minuten pro Prüfling nicht überschreiten. Die Prüfung wird durch die/den bestellten Prüfer/in abgenommen. Die Gegenstände und die Ergebnisse der Prüfung sind in einem Protokoll festzuhalten. Mündliche Prüfungen werden auf Deutsch abgehalten, außer Prüfer, Beisitzer und Prüfling legen einvernehmlich eine andere Sprache fest. Die Festsetzung der Note erfolgt durch die/den Prüfer/in. Eine anwesende Beisitzerin/ein anwesender Beisitzer ist vor der Festsetzung zu hören. Das Ergebnis der mündlichen Prüfung ist dem Prüfling im Anschluss an die Prüfung mitzuteilen.
+
+(10) Bei mündlichen Modulprüfungen sind Zuhörer und Zuhörerinnen nach Maßgabe der vorhandenen Plätze zugelassen. Die Zulassung erstreckt sich nicht auf die Beratung und Bekanntgabe des Ergebnisses. Auf schriftlichen Antrag des Prüflings bei der Prüfungsanmeldung werden Zuhörer/innen von der Prüfung ausgeschlossen. Die Prüferinnen und Prüfer haben das Recht, Zuhörer/innen bei Störung des Prüfungsverlaufs während der Prüfung auszuschließen.
+
+(11) Ein selbstständig gehaltener Vortrag im Rahmen eines Seminars kann als Prüfungsleistung benotet werden. Der/die verantwortliche Lehrende gibt hierzu zu Beginn des Seminars Bewertungskriterien an. Die Benotung erfolgt innerhalb von vier Wochen nach Beendigung des Seminars.
+
+(12) Ein schriftlicher Bericht ist eine schriftliche Ausarbeitung zu einer Lehrveranstaltung und wird in der Regel benotet. Der/die verantwortliche Lehrende gibt hierzu Bewertungskriterien bekannt. Die Benotung erfolgt innerhalb von vier Wochen nach Abgabe des Berichts.
+
+(13) Weitere Prüfungsformen werden im fachspezifischen Anhang dieser Prüfungsordnung festgelegt.
+
+(14) Macht der Prüfling durch ein ärztliches Zeugnis glaubhaft, dass sie oder er wegen einer gesundheitlichen Beeinträchtigung nicht in der Lage ist, eine Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, kann der Prüfungsausschuss gestatten, gleichwertige Prüfungsleistungen in einer anderen Form zu erbringen.
+
+(15) In Ausnahmefällen kann der Prüfungsausschuss festlegen, dass eine Modulprüfung als kumulative Modulprüfung abgehalten wird. Diese setzt sich aus mehreren Prüfungsleistungen zusammen, die jeweils einen Teil des dem Modul zugeordneten Lernstoffs zum Gegenstand haben.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 11 Modulprüfungen: An- und Abmeldung, Fristen
+1. Die Anmeldung zu einer Modulprüfung muss mindestens eine Woche vor dem Prüfungstermin bei der Studierenden- und Prüfungsverwaltung der Heinrich-Heine-Universität Düsseldorf erfolgen.
+2. Die Anmeldung zu bestimmten Modulprüfungen kann von Voraussetzungen abhängen, die im fachspezifischen Anhang definiert sind.
+3. Die Abmeldung von einer Prüfung bei der Studierenden- und Prüfungsverwaltung ist bis eine Woche vor dem Prüfungstermin zulässig.
+4. Das An- und Abmeldeverfahren für Modulprüfungen in einem Studiengang kann abweichend von Abs. 1 und Abs. 3 im fachspezifischen Anhang geregelt werden. Zudem kann der jeweils zuständige Prüfungsausschuss für einzelne Modulprüfungen in Abstimmung mit der Studierenden- und Prüfungsverwaltung andere Regelungen für die An- und Abmeldung festlegen als in der Prüfungsordnung vorgesehen. Diese Regelungen sind per Aushang oder im Internet bekannt zu machen.
+5. Angemeldete Kandidaten und Kandidatinnen, die bis zum Termin der Prüfung die Voraussetzungen nicht erbracht haben, gelten als nicht angemeldet.
+6. Die Prüfungsleistungen oder gegebenenfalls Vermerke über die Nichterfüllung der Voraussetzungen müssen für alle angemeldeten Kandidaten und Kandidatinnen spätestens vier Wochen nach dem Abschluss einer Prüfung von der Prüferin/vom Prüfer an die Studierenden- und Prüfungsverwaltung übermittelt werden.
+
+## § 12 Modulprüfungen: Bewertung, Notenskala
+1. Für die Bewertung von Prüfungsleistungen sind folgende Noten zu verwenden:
+- **1 (sehr gut)**: eine hervorragende Leistung;
+- **2 (gut)**: eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt;
+- **3 (befriedigend)**: eine Leistung, die durchschnittlichen Anforderungen entspricht;
+- **4 (ausreichend)**: eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt;
+- **5 (nicht ausreichend)**: eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt.
+
+Zur Differenzierung können die Noten um 0,3 erhöht oder verringert werden; die Noten 0,7 und 4,3 sowie 4,7 und 5,3 sind dabei ausgeschlossen.
+
+2. Zuständig für die Vergabe der Note jeder Modulprüfung sind die jeweiligen bestellten Prüfer und Prüferinnen.
+3. Für Module mit kumulativer Modulprüfung (§ 10 Abs. 15) werden die gemäß Abs. 1 vergebenen Noten der einzelnen Prüfungsleistungen gemittelt. Bei dieser Mittelung sind Prüfungsleistungen zu verschiedenen Lehrveranstaltungen im Verhältnis der Leistungspunkte zu gewichten, die den Veranstaltungen zugeordnet sind. Dieser Mittelwert ist die Modulnote, wobei die Note kaufmännisch auf eine Nachkommastelle gerundet wird.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+```markdown
+# § 13 Modulprüfungen: Bestehen und Nichtbestehen
+(1) Eine Prüfungsleistung ist mit Erfolg erbracht und die Modulprüfung somit bestanden, wenn sie mindestens mit „ausreichend“ (kleiner oder gleich 4,0) bewertet wurde.
+(2) Eine Modulprüfung wird als nicht bestanden bewertet, wenn sie mit der Note „nicht ausreichend“ (5,0) bewertet wurde.
+(3) Die kumulative Modulprüfung zu einem Modul ist bestanden, wenn alle geforderten Leistungen mit „ausreichend“ oder besser bewertet und alle geforderten Studienleistungen erbracht wurden. Andernfalls wird die kumulative Modulprüfung mit der Note „nicht ausreichend“ (5,0) bewertet.
+(4) Mit dem Bestehen der Modulprüfung sind alle gemäß Anhang auf das betreffende Modul lenden Leistungspunkte erworben.
+
+# § 14 Modulprüfungen: Wiederholung
+(1) Die Wiederholung bestandener Prüfungsleistungen ist nicht zulässig.
+(2) Ist eine Modulprüfung nicht bestanden, so erteilt die Studierenden- und Prüfungsverwaltung dem Prüfling hierüber einen schriftlichen Bescheid, der auch darüber Auskunft gibt, ob und gegebenenfalls in welcher Form und mit welchen Fristen die Prüfung wiederholt werden kann. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
+(3) Eine nicht bestandene Modulprüfung kann zweimal wiederholt werden.
+(4) Die Wiederholung einer nicht bestandenen Modulprüfung soll zum nächstmöglichen Termin (bzw. im Falle einer mündlichen Prüfung: Terminfenster) erfolgen. Die Abmeldung von der Prüfung ist erlaubt (siehe § 11 Abs. 3).
+(5) Die Form der Wiederholungsprüfung muss nicht mit der Form der ursprünglichen Prüfung stimmen. Die Festsetzung der Form der Wiederholungsprüfung erfolgt durch die Prüferin/den Prüfer.
+(6) Die Modulnote einer wiederholten Modul-Abschlussprüfung ist gleich der Note für die Leistung der Wiederholungsprüfung.
+(7) Innerhalb einer kumulativen Modulprüfung können nur jene Prüfungsleistungen wiederholt werden, die mit „nicht ausreichend“ (5,0) bewertet wurden. Die wiederholte kumulative Modulprüfung ist bestanden, wenn die Bedingungen aus § 13 Abs. 3 erfüllt sind. Die Note der wiederholten Modulprüfung ergibt sich gemäß § 12 Abs. 3 unter Berücksichtigung der Note der wiederholten Prüfungsleistungen.
+(8) Eine Modulprüfung gilt als endgültig nicht bestanden, wenn sie bei der Maximalzahl erlaubter Wiederholungen jedes Mal mit „nicht ausreichend“ (5,0) bewertet wurde.
+(9) Die Wiederholung von Modulprüfungen kann für einen Studiengang abweichend von Abs. 3 und Abs. 4 im fachspezifischen Anhang geregelt werden.
+
+HHU Amtliche Bekanntmachungen Nr. 53/2021
+
+```
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 15 Modulprüfungen: Versäumnis, Rücktritt, Täuschung und Ordnungsverstoß
+
+1. Eine Prüfungsleistung gilt als nicht mit Erfolg erbracht, wenn der Prüfling einen Prüfungstermin ohne triftige Gründe versäumt oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.
+
+2. Triftige Gründe, die für das Versäumnis oder für den Rücktritt geltend gemacht werden sollen, müssen dem Prüfungsausschuss unverzüglich über die Studierenden- und Prüfungsverwaltung angezeigt und glaubhaft gemacht werden. Erkennt der Prüfungsausschuss die Gründe an, so gilt die Prüfung als nicht unternommen. Bei Krankheit ist der Studierenden- und Prüfungsverwaltung ein ärztliches Attest vorzulegen, aus dem die Prüfungsunfähigkeit hervorgeht.
+
+3. Versucht der Prüfling, das Ergebnis seiner Prüfungsleistung durch Täuschung oder durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als nicht bestanden. Die Verwendung elektronischer Geräte (wie z. B. Smartphones oder Smartwatches) in Prüfungen ist nicht gestattet. Das Herausholen oder die Benutzung eines nicht zugelassenen Hilfsmittels kann mit dem Nichtbestehen der Prüfung geahndet werden, es sei denn, die Mitnahme oder Nutzung wurde von der oder dem Modulverantwortlichen oder den Aufsichtsführenden vorher ausdrücklich erlaubt.
+
+4. Stört ein Prüfling den ordnungsgemäßen Ablauf der Prüfung, so kann er von der Prüferin/vom Prüfer nach Abmahnung von der Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als nicht bestanden.
+
+5. Der Prüfling kann innerhalb von vier Wochen verlangen, dass eine Entscheidung nach Abs. 3 oder 4 vom Prüfungsausschuss überprüft wird. Belastende Entscheidungen des Prüfungsausschusses sind dem Prüfling unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. Dem Prüfling ist vor der Entscheidung Gelegenheit zu rechtlichem Gehör zu geben.
+
+## § 16 Bachelorarbeit: Themenstellung
+
+1. Die Bachelorarbeit ist eine schriftliche Ausarbeitung, mit der der Prüfling nachweisen soll, dass er in der Lage ist, innerhalb einer vorgegebenen Frist ein eng abgegrenztes Thema aus dem Studienfach selbstständig mit wissenschaftlichen Methoden und unter Berücksichtigung guter wissenschaftlicher Praxis zu bearbeiten und angemessen darzustellen. Die Bachelorarbeit kann auf Deutsch oder Englisch angefertigt werden.
+
+2. Die Themenstellung und Betreuung der Bachelorarbeit erfolgt durch eine Professorin oder einen Professor oder durch eine/n habilitierte/n wissenschaftliche/n Mitarbeiter/in, die oder der im Fach des geregelten Studiengangs an der Heinrich-Heine-Universität Düsseldorf tätig ist. Ausnahmen von Satz 1 regelt der Prüfungsausschuss. Ebenso erfolgt die Bestellung der Betreuerin/des Betreuers durch den Prüfungsausschuss.
+
+3. Der Antrag auf Themenstellung für die Bachelorarbeit ist vom Prüfling an eine oder einen vom Prüfungsausschuss gem. Abs. 2 zugelassene(n) Betreuer/-in zu stellen. Voraussetzungen und Fristen für diese Antragstellung finden sich im fachspezifischen Anhang.
+
+4. Das Thema der Bachelorarbeit wird von der vorgeschlagenen Betreuerin oder dem vorgeschlagenen Betreuer gestellt und an den Prüfungsausschuss weitergeleitet. Der Prüfungsausschuss legt bei Vorliegen der Voraussetzungen einen Zweitprüfer fest, übermittelt das Thema der Bachelorarbeit sowie die.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 16 Bachelorarbeit: Themenstellung und Zulassung
+
+(1) Die Studierenden haben das Recht, ein Thema für die Bachelorarbeit zu beantragen.
+(2) Der Antrag auf Zulassung zur Bachelorarbeit ist schriftlich bei der Studierenden- und Prüfungsverwaltung einzureichen.
+(3) Der Antrag muss die Namen der Prüfer an die Studierenden- und Prüfungsverwaltung und an den Prüfling enthalten. Die Frist beginnt mit dem Datum dieser Mitteilung.
+(4) Bei Vorliegen aller Voraussetzungen nach Abs. 3 bzw. fachspezifischem Anhang kann ein Prüfling auch ohne eigene Vorschläge oder ohne Zustimmung eines Betreuers oder einer Betreuerin beantragen, dass ihm vom Prüfungsausschuss ein Thema für die Bachelorarbeit gestellt und ein/e Betreuer/in zugewiesen wird. In diesem Fall erfolgt die Zulassung und Themenstellung für die Bachelorarbeit sowie die Zuweisung eines Betreuers oder einer Betreuerin durch den Prüfungsausschuss binnen eines Monats.
+(5) Das Thema der Bachelorarbeit und der Zeitpunkt der Ausgabe sind von der Studierenden- und Prüfungsverwaltung für die Kandidatin/den Kandidaten ersichtlich aktenkundig zu machen.
+(6) Das ausgegebene Thema kann vom Prüfling nur einmal und nur binnen vier Wochen nach der Ausgabe zurückgegeben werden. In diesem Fall erfolgt eine erneute Themenstellung nach Abs. 4 oder Abs. 5. Nach Maßgabe von § 15 Abs. 2 kann das Thema aus triftigem Grund auch zu einem späteren Zeitpunkt zurückgegeben werden.
+(7) Bearbeitungszeit, Umfang und Abgabefrist der Bachelorarbeit sind im fachspezifischen Anhang geregelt.
+(8) Bei einer Abgabe der Bachelorarbeit hat der Prüfling zu versichern, dass er die Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat.
+
+## § 17 Bachelorarbeit: Bewertung und Annahme
+
+(1) Die Bachelorarbeit ist in elektronischer Form (als PDF-Dokument) fristgemäß, d.h. spätestens mit Ablauf der Bearbeitungsfrist, abzuliefern. Die Ablieferung erfolgt durch das Hochladen des Dokuments im Studierendenportal der Heinrich-Heine-Universität Düsseldorf (duesseldorf.de). Das Datum der Abgabe wird von der Studierenden- und Prüfungsverwaltung kundig gemacht. Wird die Bachelorarbeit nicht fristgemäß abgeliefert, gilt sie als mit „nicht ausreichend“ (5,0) bewertet. Auf Verlangen der Erstprüferin/des Erstprüfers reicht der Prüfling zusätzlich zwei mit der elektronischen Fassung identische gebundene Exemplare der Arbeit bei der Erstprüferin/dem Erstprüfer ein.
+(2) Die Bachelorarbeit ist von zwei Prüfer/inne/n zu bewerten, die die Qualifikation zur Vergabe von Themen gemäß § 16 Abs. 2 haben. Zumindest eine dieser Personen muss hauptberuflich an der Heinrich-Heine-Universität Düsseldorf tätig sein. Erstprüferin oder Erstprüfer ist die oder der Betreuende der Bachelorarbeit. Die Bestellung der Prüfer/innen für die Bachelorarbeit erfolgt durch den Prüfungsausschuss.
+(3) Die Erstprüferin/der Erstprüfer nimmt eine Bewertung der Bachelorarbeit vor und begründet diese schriftlich. Der/die Zweitprüfer/in kann sich dieser Bewertung und der Begründung anschließen oder eine abweichende Bewertung vornehmen, die dann ebenfalls schriftlich begründet sein muss. Die Bewertungen erfolgen durch Noten gemäß § 12 Abs. 1.
+(4) Die Note der Bachelorarbeit ist das auf eine Nachkommastelle kaufmännisch gerundete arithmetische Mittel der von den beiden Prüfer/inne/n gemäß Abs. 3 vergebenen Noten, sofern diese beide mindestens „ausreichend“ (4,0) sind und um nicht mehr als 2,0 voneinander abweichen. Sind die beiden Noten „nicht ausreichend“ (5,0), so ist dies auch die Note der Bachelorarbeit. In allen anderen Fällen bestellt der Prüfungsausschuss eine weitere Person gemäß Abs. 2 als Prüfer/in, die eine dritte Note für die Bachelorarbeit vergibt und diese schriftlich begründet. Die Note der Bachelorarbeit ist dann das auf...
+
+----
+
+**Hinweis:** Die Informationen sind aus einer offiziellen Prüfungsordnung und können spezifische Anforderungen und Fristen enthalten, die für Studierende der Heinrich-Heine-Universität Düsseldorf relevant sind.
+
+---
+
+# Prüfungsordnung für die Bachelorarbeit
+
+## § 17 Bachelorarbeit: Bewertung
+1. Die Bachelorarbeit wird mit einer Note bewertet, die sich aus dem arithmetischen Mittel der beiden besseren von den insgesamt drei vergebenen Noten ergibt, sofern diese besseren Noten beide mindestens „ausreichend“ (4,0) lauten. Andernfalls ist die Bewertung der Bachelorarbeit „nicht ausreichend“ (5,0).
+2. Die Bewertung der Bachelorarbeit muss dem Prüfling vom Prüfungsausschuss spätestens sechs Wochen nach der Abgabe mitgeteilt werden. Im Fall der Heranziehung einer dritten Prüferin oder eines dritten Prüfers spätestens nach acht Wochen.
+3. Eine mit der Note „ausreichend“ (4,0) oder besser bewertete Bachelorarbeit ist angenommen. Für eine angenommene Bachelorarbeit werden alle dafür vorgesehenen Leistungspunkte vergeben (siehe fachspezifischer Anhang).
+4. Wird die Bachelorarbeit nicht angenommen, so muss die Mitteilung durch den Prüfungsausschuss in schriftlicher Form erfolgen und Auskunft darüber geben, ob die Bachelorarbeit wiederholt werden kann (§ 18). Der Bescheid über die Nichtannahme der Bachelorarbeit ist mit einer Begründung zu versehen.
+5. § 15 gilt für die Bachelorarbeit sinngemäß.
+
+## § 18 Bachelorarbeit: Wiederholung
+1. Eine nach § 17 Abs. 6 angenommene Bachelorarbeit kann nicht wiederholt werden.
+2. Eine Bachelorarbeit, die nach § 17 Abs. 7 oder 8 mit der Note „nicht ausreichend“ bewertet wurde und somit als nicht angenommen gilt, kann einmal wiederholt werden. Eine zweite Wiederholung ist ausgeschlossen.
+3. Der Antrag auf Zulassung und Themenstellung (§ 16) für die Wiederholung der Bachelorarbeit muss spätestens drei Monate nach Absendung der Mitteilung gestellt werden, in der dem Prüfling die Bewertung der nicht angenommenen Bachelorarbeit mitgeteilt wurde.
+4. Die Ausgabe des Themas bei der Wiederholung erfolgt gemäß § 16.
+
+## § 19 Zusatzmodule
+1. Der Prüfling kann im Rahmen der Bachelorprüfung Modulprüfungen in mehr als den im fachspezifischen Anhang vorgeschriebenen Modulen seines oder eines nahe verwandten Studiengangs ablegen (Zusatzmodule). Das Ergebnis der Prüfung in diesen Modulen wird auf Antrag des Prüflings in das Zeugnis aufgenommen, jedoch bei der Festsetzung der Gesamtnote nicht mit einbezogen. Der Prüfungsausschuss kann das Belegen von Zusatzmodulen untersagen, insbesondere aus Gründen der Lehrkapazität.
+
+## § 20 Einsicht in die Prüfungsakten
+1. Innerhalb eines Monats nach Bekanntgabe der Ergebnisse wird zu jeder Klausur ein Termin angeboten, an dem jeder Prüfling Einsicht in seine Prüfungsarbeit nehmen kann.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## § 21 Bachelorprüfung: Bewertung
+
+1. Die Bachelorprüfung ist bestanden, wenn alle Leistungspunkte nach Maßgabe des fachspezifischen Anhangs erworben worden sind.
+2. Die Gesamtnote der Bachelorprüfung ergibt sich aus dem gewichteten Mittel der Noten der Modulprüfungen und der Note der angenommenen Bachelorarbeit. Die Gewichtung der Module ist im fachspezifischen Anhang festgelegt.
+3. Die Gesamtnote der bestandenen Bachelorprüfung wird auf eine Nachkommastelle kaufmännisch gerundet angegeben.
+4. Für eine bestandene Bachelorprüfung wird ein Prädikat nach folgendem Schlüssel vergeben:
+
+| Gesamtnote       | Prädikat      |
+|------------------|---------------|
+| 1,0 – 1,5        | sehr gut      |
+| 1,6 – 2,5        | gut           |
+| 2,6 – 3,5        | befriedigend  |
+| 3,6 – 4,0        | ausreichend    |
+
+5. Zusätzlich wird im Diploma Supplement eine ECTS-Einstufungstabelle angegeben, die Auskunft über die statistische Verteilung der erzielten Noten innerhalb der zugehörigen Studierendengruppe gibt. Die ECTS-Einstufungstabelle wird nach folgendem Schema erstellt:
+
+| Notenintervall    | Anteil in % | Aufsummierter Anteil in % |
+|-------------------|-------------|---------------------------|
+| 1,0 – 1,2         |             |                           |
+| 1,3 – 1,6         |             |                           |
+| 1,7 – 1,9         |             |                           |
+| 2,0 – 2,2         |             |                           |
+| 2,3 – 2,6         |             |                           |
+| 2,7 – 2,9         |             |                           |
+| 3,0 – 3,2         |             |                           |
+| 3,3 – 3,6         |             |                           |
+| 3,7 – 4,0         |             |                           |
+
+Stichtag für die Erstellung der ECTS-Einstufungstabelle ist immer der 31.12. eines jeden Jahres. Als Berechnungsgrundlage werden die Gesamtnoten der Absolventinnen und Absolventen des Studiengangs herangezogen, die in den fünf vorangegangenen Prüfungsjahren ihr Studium geschlossen haben. Die ECTS-Einstufungstabelle kann nicht angegeben werden, wenn weniger als 50 Studierende den Studiengang absolviert haben.
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 22 Bachelorprüfung: Nichtbestehen
+(1) Die Bachelorprüfung ist endgültig nicht bestanden, wenn
+- eine wiederholte Bachelorarbeit nicht angenommen wurde (§ 17), oder
+- wenn eine Modulprüfung endgültig nicht bestanden wurde (§ 14 Abs. 8), für die keine Ausgleichsmöglichkeit besteht.
+
+(2) Der Prüfungsausschuss erteilt dem Prüfling einen schriftlichen Bescheid über das Nichtbestehen der Bachelorprüfung, der mit einer Rechtsbehelfsbelehrung zu versehen ist.
+
+## § 23 Bachelorprüfung: Akademischer Grad, Zeugnis, Urkunde
+(1) Aufgrund der bestandenen Bachelorprüfung verleiht die Mathematisch-Naturwissenschaftliche Fakultät der Heinrich-Heine-Universität Düsseldorf den akademischen Grad „Bachelor of Science“ (kürzt: „B.Sc.“) im jeweiligen Fach.
+
+(2) Hat der Prüfling die Bachelorprüfung bestanden, so erhält er ein Zeugnis, in dem die Gesamtnote sowie die abgelegten Modulprüfungen mit den zugehörigen Noten und Leistungspunkten aufgeführt sind. Außerdem wird das Thema der Bachelorarbeit und deren Note und Leistungspunktezahl aufgeführt. Das Zeugnis trägt das Datum des Tages der letzten Prüfung und die Unterschrift der/des Vorsitzenden des Prüfungsausschusses.
+
+(3) Auf Antrag des Prüflings werden Prüfungsergebnisse in Zusatzmodulen gemäß § 19 mit in das Zeugnis aufgenommen.
+
+(4) Dem Zeugnis wird ein Diploma Supplement in deutscher und englischer Sprache beigefügt, welches eine Beschreibung der durch diesen Studiengang erworbenen Qualifikation sowie die erreichte Note (§ 21 Abs. 3), das Prädikat (§ 21 Abs. 4) und die ECTS-Einstufungstabelle (§ 21 Abs. 5) enthält.
+
+(5) Gleichzeitig mit dem Zeugnis wird dem Prüfling die Bachelorurkunde mit dem Datum des Abschlusses ausgehändigt. Darin wird die Verleihung des Bachelorgrades gemäß Abs. 1 beurkundet.
+
+(6) Die Bachelorurkunde wird von der Dekanin oder dem Dekan der Fakultät der Heinrich-Heine-Universität Düsseldorf und von der/dem Vorsitzenden des Prüfungsausschusses unterzeichnet und mit dem Siegel der Fakultät versehen.
+
+(7) Hat ein Prüfling die Bachelorprüfung noch nicht oder endgültig nicht bestanden, so wird ihm auf Antrag eine schriftliche Bescheinigung ausgestellt, welche die erreichten Leistungspunkte sowie die absolvierten Modulprüfungen mit deren Noten enthält, die zum Bestehen der Bachelorprüfung noch fehlenden Prüfungsleistungen aufzählt und erkennen lässt, dass die Bachelorprüfung noch nicht oder endgültig nicht bestanden ist.
+
+## § 24 Bachelorprüfung: Ungültigkeit
+(1) Hat der Prüfling bei einer Prüfung getäuscht und wird diese Tatsache erst nach Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die Noten für diejenigen Leistungen, bei deren Erbringung der Prüfling getäuscht hat, entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Mathematisch-Naturwissenschaftlichen Fakultät
+
+## § 24 Zulassung zu Prüfungen
+
+1. Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Prüfling darüber täuschen wollte, und wird diese Tatsache erst nach Bekanntgabe der Prüfungsergebnisse bzw. Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.
+2. Hat der Prüfling die Zulassung zu einer Prüfung vorsätzlich zu Unrecht erwirkt, so entscheidet der Prüfungsausschuss unter Beachtung des Verwaltungsverfahrensgesetzes für das Land Nordrhein-Westfalen vom 21. Dezember 1976 (GV. NW. Seite 438) in der jeweils geltenden Fassung über die Folgen.
+3. Vor einer Entscheidung des Prüfungsausschusses nach Abs. 1 oder 3 ist der oder dem Betroffenen Gelegenheit zur Äußerung zu geben.
+4. Ein unrichtiges Zeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. Mit dem ungültigen Zeugnis ist auch die Bachelorurkunde einzuziehen.
+
+## § 25 Übergangsbestimmungen
+
+1. Diese Prüfungsordnung gilt für alle Studierenden der im fachspezifischen Anhang genannten Bachelorstudiengänge der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf, die nach jenem Datum für ihren Studiengang eingeschrieben wurden, das dort als Stichtag genannt ist.
+2. Studierende, die vor dem in Abs. 1 definierten Datum erstmalig für einen der im fachspezifischen Anhang genannten Bachelorstudiengänge eingeschrieben wurden, legen die Bachelorprüfung nach der zum Zeitpunkt der erstmaligen Einschreibung geltenden Prüfungsordnung ab, es sei denn, dass sie die Anwendung der neuen Prüfungsordnung beantragen. Der Antrag auf Anwendung der neuen Prüfungsordnung ist schriftlich über die Studierenden- und Prüfungsverwaltung an den Prüfungsausschuss zu richten und muss spätestens mit der Anmeldung zur letzten Modulprüfung für die Bachelorprüfung gestellt werden. Dieser Antrag ist unwiderruflich.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Artikel II
+
+## § 26 Inkrafttreten und Veröffentlichung
+
+Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Heinrich-Heine-Universität Düsseldorf in Kraft und gilt für alle Studierenden der hier enthaltenen Studiengänge, die ihr Studium zum im fachspezifischen Anhang aufgeführten Stichtag oder später begonnen haben.
+
+Ausgefertigt aufgrund des Beschlusses des Fakultätsrates der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität vom 20.07.2021.
+
+Düsseldorf, den 26.11.2021
+
+Die Rektorin der Heinrich-Heine-Universität Düsseldorf
+
+**Anja Steinbeck**
+*(Univ. Prof. Dr. iur.)*
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Bachelor Informatik
+
+---
+
+# Fachspezifischer Anhang zur Prüfungsordnung „Bachelor of Science“
+## für den Bachelorstudiengang Informatik
+### an der Heinrich-Heine-Universität Düsseldorf
+
+### zu §3 (5) Gliederung des Bachelorstudiengangs Informatik
+Alle Veranstaltungen des Bachelorstudiengangs Informatik können auf Deutsch und/oder Englisch unterrichtet werden. Die Unterrichtssprache wird den Studierenden vor Beginn der Veranstaltung durch die Lehrenden per Internet und/oder Aushang bekannt gemacht.
+
+| Bereich                            | Typ | Module | LP (mindestens) | Gewicht für Gesamtnote |
+|-----------------------------------|-----|--------|-----------------|------------------------|
+| Informatik                        | P   | 8      | 62              | 62                     |
+| Wissenschaftliches Arbeiten       | P   | 1      | 3               | 0                      |
+| Praktikum                         | P   | 2      | 20              | 20                     |
+| Mathematik                       | P   | 3      | 30              | 30                     |
+| Wahlbereich                       | WP  | ≥4     | 45              | 45                     |
+| Seminar                           | WP  | 1      | 5               | 5                      |
+| Bachelorarbeit                    | P   | 1      | 15              | 30                     |
+|                                   |     | ≥20    | 180             | 192                    |
+
+*P: Pflichtmodul, WP: Wahlpflichtmodul*
+
+Zur Gewichtung der Gesamtnote werden genau die angegebenen Zahlen verwendet, auch wenn in einem Bereich oder Modul mehr als die mindestens verlangten Leistungspunkte erworben wurden.
+
+### (A) Die Module im Bereich „Informatik“ sind
+
+| Modul                                                            | LP | Semester |
+|------------------------------------------------------------------|----|----------|
+| Programmierung                                                   | 10 | 1        |
+| Rechnerarchitektur                                              | 7  | 1        |
+| Grundlagen der Computernetzwerke                                  | 5  | 2        |
+| Datenbanken: Eine Einführung                                      | 5  | 2        |
+| Algorithmen und Datenstrukturen                                  | 10 | 3        |
+| C-Programmierung für Algorithmen und Datenstrukturen            | 5  | 4        |
+| Data Science                                                     | 10 | 4        |
+| Theoretische Informatik                                          | 10 | 4        |
+
+### (B) Das Modul im Bereich „Wissenschaftliches Arbeiten“ ist
+
+| Modul                                                           | LP | Semester |
+|------------------------------------------------------------------|----|----------|
+| Wissenschaftliches Arbeiten                                       | 3  | 1        |
+
+### (C) Die Module im Bereich „Praktikum“ sind
+
+| Modul                                                           | LP | Semester |
+|------------------------------------------------------------------|----|----------|
+| Programmierpraktikum 1                                           | 10 | 2        |
+| Programmierpraktikum 2                                           | 10 | 3        |
+
+### (D) Die Module im Bereich „Mathematik“ sind
+
+| Modul                                                           | LP | Semester |
+|------------------------------------------------------------------|----|----------|
+| Mathematik für Informatik 1                                      | 10 | 1        |
+| Mathematik für Informatik 2                                      | 10 | 2        |
+| Mathematik für Informatik 3                                      | 10 | 3        |
+
+HHU Amtliche Bekanntmachungen Nr. 53/2021
+
+---
+
+# Prüfungsordnung für den Bachelorstudiengang Informatik
+
+## Modulübersicht
+
+### Wahlbereich
+| Modul          | LP | Semester |
+|----------------|----|----------|
+| Wahlbereich    | 45 | 4 - 6    |
+
+Im Wahlbereich können alle für diesen Bereich freigegebenen Module aus dem Angebot des Bachelorstudiengangs Informatik gewählt werden. Weitere Lehrveranstaltungen können auf Antrag vom Prüfungsausschuss bewilligt werden. Die Zuordnung von Lehrveranstaltungen zum Wahlbereich und die Zuordnung von Leistungspunkten zu diesen Lehrveranstaltungen regelt der Prüfungsausschuss im Einvernehmen mit den Lehrenden des jeweiligen Fachs. Die Regelungen werden den Studierenden durch den Prüfungsausschuss per Internet und/oder Aushang bekannt gemacht.
+
+- Mindestens 20 LP müssen aus dem Lehrangebot des Informatik-Bachelorstudiengangs stammen.
+- Im Wahlbereich können maximal 5 LP durch Veranstaltungen außerhalb des Lehrangebots der Fakultäten erbracht werden, die Leistungen aus diesen Veranstaltungen sind immer unbenotet und gehen nicht in die Gesamtnote ein.
+
+### Seminar
+| Modul   | LP | Semester |
+|---------|----|----------|
+| Seminar | 5  | 4 - 6    |
+
+### Bachelorarbeit
+| Modul                | LP | Semester |
+|---------------------|----|----------|
+| Abschlussseminar    | 2  | 6        |
+| Abschlussarbeit      | 13 | 6        |
+
+Im Rahmen des benoteten Abschlussseminars werden Thema und Ergebnisse der Abschlussarbeit mit anschließender wissenschaftlicher Diskussion präsentiert. Die mündliche Präsentation der schriftlichen Abschlussarbeit erfolgt öffentlich und findet zeitnah nach Abgabe der Abschlussarbeit statt. Die Präsentationstermine werden rechtzeitig bekannt gegeben.
+
+## Weitere Prüfungsformen
+### Zu § 10 Abs. 13:
+Die schriftliche Ausarbeitung: Eine schriftliche Ausarbeitung kann Programmtext enthalten oder vollständig aus Programmtext bestehen. Sie kann aus mehreren Teilen bestehen, die zu festgelegten Stichtagen in einer vorgegebenen Form abzugeben sind. Die verantwortlich lehrende Person gibt in der Lehrveranstaltung Form, Abgabetermine und Bewertungskriterien bekannt.
+
+### Zu § 16: Bachelorarbeit: Themenstellung
+#### Zu § 16 (3): Voraussetzungen und Fristen zur Anmeldung der Bachelorarbeit
+Im Antrag auf Zulassung für die schriftliche Abschlussarbeit muss der Erwerb von mindestens 120 Kreditpunkten nachgewiesen werden. Das Thema der Bachelorarbeit soll in einem inhaltlichen Zusammenhang mit bestandenen Veranstaltungen der Informatik stehen.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung für den Bachelor-Studiengang Informatik
+
+## §16 (8): Bearbeitungszeit, Umfang und Abgabefrist der Bachelorarbeit
+Die Bearbeitungszeit für die schriftliche Abschlussarbeit beträgt drei Monate ab Ausgabe des Themas.
+Der Umfang der schriftlichen Abschlussarbeit soll 25 bis 30 Seiten betragen. Die Abschlussarbeit muss eine einseitige Zusammenfassung enthalten.
+Auf begründeten Antrag kann der Prüfungsausschuss nach Anhörung der Betreuerin oder des Betreuers der schriftlichen Abschlussarbeit die Frist um höchstens zwei Wochen verlängern. In dem Antrag sind die besonderen und vom Prüfling nicht zu vertretenden Umstände darzulegen, die eine rechtzeitige Fertigstellung der schriftlichen Abschlussarbeit verhindert haben.
+
+## §19 (1): Zusatzmodule
+Im Bachelor-Studiengang Informatik dürfen maximal 30 LP als Zusatzleistung erbracht werden.
+
+## §26 (1): Inkrafttreten
+Der Stichtag gemäß § 26 (1) ist der 30.09.2021.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# General Master Rules
+
+---
+
+# Neubekanntmachung der Prüfungsordnung für die Studiengänge
+
+**Artificial Intelligence and Data Science, Informatik und Artificial Intelligence and Data Science und Physik mit dem Abschluss „Master of Science“ an der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf**
+
+in der Fassung der
+
+**Dritten Ordnung zur Änderung der Prüfungsordnung für die Studiengänge**
+
+**Artificial Intelligence and Data Science, Informatik und Artificial Intelligence and Data Science und Physik mit dem Abschluss „Master of Science“ an der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf vom 26.11.2021 (Amtliche Bekanntmachung Nr. 53/2021)**
+
+Aufgrund des § 2 Abs. 4 und des § 64 Abs. 1 des Gesetzes über die Hochschulen des Landes Westfalen (Hochschulgesetz – HG) vom 16.09.2014 (GV. NRW. Seite 547), zuletzt geändert durch Artikel 2 des Gesetzes vom 25. März 2021 (GV.NRW S. 331), hat die Heinrich-Heine-Universität Düsseldorf die folgende Ordnung erlassen:
+
+## Inhaltsübersicht
+
+- **Artikel I**
+- § 1 Geltungsbereich
+- § 2 Studium: Ziel
+- § 3 Studium: Aufbau
+- § 4 Prüfungsausschuss
+- § 5 Prüfer und Prüferinnen
+- § 6 Masterprüfung: Zweck
+- § 7 Masterprüfung: Zulassung
+- § 8 Masterprüfung: Regeln
+- § 9 Anerkennung von Studien- und Prüfungsleistungen
+- § 10 Modulprüfungen: Regeln
+- § 11 Modulprüfungen: An- und Abmeldung, Fristen
+- § 12 Modulprüfungen: Bewertung, Notenskala
+- § 13 Modulprüfungen: Bestehen und Nichtbestehen
+- § 14 Modulprüfungen: Wiederholung
+- § 15 Modulprüfungen: Versäumnis, Rücktritt, Täuschung und Ordnungsverstoß
+- § 16 Masterarbeit: Themenstellung
+- § 17 Masterarbeit: Bewertung und Annahme
+- § 18 Masterarbeit: Wiederholung
+- § 19 Zusatzmodule
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021
+
+**
+
+---
+
+```markdown
+# Prüfungsordnung
+
+## § 20 Einsicht in die Prüfungsakten
+
+## § 21 Masterprüfung: Bewertung
+
+## § 22 Masterprüfung: Nichtbestehen
+
+## § 23 Masterprüfung: Akademischer Grad, Zeugnis, Urkunde
+
+## § 24 Masterprüfung: Ungültigkeit
+
+## § 25 Übergangsbestimmungen
+
+### Artikel II
+## § 26 Inkrafttreten und Veröffentlichung
+
+## Fachspezifischer Anhang
+- Masterstudiengang Artificial Intelligence and Data Science
+- Masterstudiengang Biochemie (zweijährig)
+- Masterstudiengang Biochemistry International (einjährig)
+- Masterstudiengang Informatik und Artificial Intelligence and Data Science
+- Masterstudiengang Physik
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+```
+
+---
+
+# Prüfungsordnung für Masterstudiengänge
+
+## Artikel I
+
+### § 1 Geltungsbereich
+(1) Diese Prüfungsordnung gilt für die Masterstudiengänge „Artificial Intelligence and Data Science“, „Informatik und Artificial Intelligence and Data Science und „Physik“ mit dem Abschluss Master of Science an der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf. Fachspezifische Regelungen finden sich im Anhang, der Bestandteil dieser Ordnung ist.
+
+### § 2 Studium: Voraussetzungen und Qualifikationsziele
+(1) Die Einschreibung für den Masterstudiengang erfordert einen ersten berufsqualifizierenden Abschluss im Fach des Masterstudiengangs oder in einem nahe verwandten Fach sowie die besondere Befähigung zum wissenschaftlichen Arbeiten. Die Einzelheiten und die genaue Vorgangsweise sind in der „Ordnung für die Feststellung der besonderen Eignung“ für den entsprechenden Masterstudiengang geregelt.
+(2) Abweichend von Ab. 1 kann eine vorläufige Einschreibung (§ 49 Abs. 6 des Hochschulgesetzes) in einen Masterstudiengang erfolgen, wenn die Eignung gemäß der „Ordnung für die Feststellung der besonderen Eignung“ für den entsprechenden Masterstudiengang festgestellt wurde und in einem Bachelorstudiengang mindestens 160 Leistungspunkte erworben wurden. Die vorläufige Einschreibung erlischt, wenn nicht innerhalb von sechs Monaten, gerechnet ab dem ersten Tag des Semesters der Einschreibung, ein erster berufsqualifizierender Abschluss nachgewiesen wird.
+(3) Der Masterstudiengang soll den Studierenden die fortgeschrittenen fachlichen Kenntnisse, Fähigkeiten und Methoden ihres Fachs vermitteln, die zu wissenschaftlicher Arbeit und zu wissenschaftlich orientierter beruflicher Tätigkeit erforderlich sind und die dazu befähigen, neue wissenschaftliche Kenntnisse kritisch einzuordnen und in der beruflichen Praxis zu nutzen. Der Studiengang soll die Studierenden in einem Spezialgebiet des Fachs an den Stand der aktuellen Forschung heranführen und dient der Vorbereitung selbstständigen wissenschaftlichen Arbeitens.
+(4) Der Masterstudiengang beinhaltet eine Einführung in die Grundsätze der „Guten Wissenschaftlichen Praxis“ gemäß den Richtlinien der Deutschen Forschungsgemeinschaft in geeigneter Form.
+(5) Über die Vermittlung fachlicher Kenntnisse hinaus soll der Masterstudiengang die Studierenden zum gesellschaftlichen Engagement ermutigen und die Entwicklung individueller Persönlichkeiten fördern. So sollen die Studierenden zu verantwortungsvollem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt werden. Die hierzu notwendigen Sozial- und Schlüsselkompetenzen werden durch Form und Inhalt der Lehrveranstaltungen (insbesondere Seminare, Übungen, Praktika, Projektarbeiten, Gruppenarbeiten) vermittelt und durch die Betreuung im Rahmen der Studienberatung unterstützt und gestärkt.
+
+### § 3 Studium: Aufbau
+(1) Die Studienzeit, in der der Mastergrad in der Regel erworben werden soll (Regelstudienzeit), beträgt vier Semester einschließlich der Ablegung aller Modulprüfungen und der Anfertigung der Masterarbeit. Ausnahmen finden sich im fachspezifischen Anhang.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung für den Masterstudiengang
+
+## § 3 Studieninhalte
+(2) Der Masterstudiengang ist so konzipiert, dass er mit einem durchschnittlichen Arbeitsaufwand (work load) von 900 Stunden pro Semester abgeschlossen werden kann.
+
+(3) Der Masterstudiengang ist nach näherer Bestimmung durch den fachspezifischen Anhang in Module gegliedert. Die Inhalte der Module werden in studiengangsspezifischen Modulhandbüchern erläutert. In der Regel wird jedes Modul durch eine Modulprüfung abgeschlossen.
+
+(4) Studierende, die laut § 2 Abs. 5 der Promotionsordnung der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität zur Promotion zugelassen werden können, obwohl sie keinen Master- oder Diplomabschluss haben („fast-track-Promotion“), können in einigen Fächern den Studiengang auf Antrag nach einer anders gegliederten Variante studieren. Details finden sich im spezifischen Anhang.
+
+(5) Eine über diese Prüfungsordnung und ihre fachspezifischen Anhänge hinausgehende Festlegung der Studieninhalte durch den Prüfungsausschuss oder die für die Durchführung der Lehrveranstaltungen Verantwortlichen darf nur so erfolgen, dass das Studium in der Regelstudienzeit abgeschlossen werden kann.
+
+## § 4 Prüfungsausschuss
+(1) Für die Organisation der Prüfungen und für die durch diese Prüfungsordnung zugewiesenen Aufgaben wählt der Fakultätsrat der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf für jeden Studiengang einen Prüfungsausschuss.
+
+(2) Der Prüfungsausschuss besteht aus fünf Mitgliedern:
+- Vorsitzende/r (aus der Gruppe der Professor/inn/en)
+- Stellvertreter/in des/der Vorsitzenden (aus der Gruppe der Professor/inn/en)
+- einem weiteren Mitglied aus der Gruppe der Professor/inn/en
+- einem Mitglied aus der Gruppe der wissenschaftlichen Mitarbeiter/innen
+- einem Mitglied aus der Gruppe der Studierenden des entsprechenden Studiengangs
+
+Für die letzten drei Mitglieder werden jeweils auch Stellvertreter/innen aus derselben Gruppe gewählt. Jede Gruppe kann dem Fakultätsrat Wahlvorschläge für ihre Mitglieder und deren Vertreter/innen unterbreiten. Die Amtszeit beträgt ein Jahr für die Studierenden und drei Jahre für die übrigen Mitglieder und ihre Vertreter/innen. Die Wiederwahl von Mitgliedern ist möglich. Scheidet ein Mitglied vorzeitig aus, wird eine Nachfolgerin oder ein Nachfolger für die restliche Amtszeit gewählt. Weitergehende Bestimmungen zur Zusammensetzung des Prüfungsausschusses finden sich im fachspezifischen Anhang.
+
+(3) Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden und sorgt für die ordnungsgemäße Durchführung der Prüfungen. Er ist insbesondere zuständig für die Anerkennung von Studien- und Prüfungsleistungen gemäß § 9 und für die Entscheidung über Widersprüche gegen Entscheidungen, die in Prüfungsverfahren getroffen wurden.
+
+(4) Der Prüfungsausschuss kann die Erledigung seiner Aufgaben für alle Regelfälle auf die Vorsitzende/den Vorsitzenden oder deren/dessen Stellvertreter/in übertragen. Dies gilt nicht für Entscheidungen über Widersprüche.
+
+(5) Der Prüfungsausschuss ist beschlussfähig, wenn neben zwei Professorinnen oder Professoren noch mindestens ein weiteres stimmberechtigtes Mitglied anwesend ist. Der Ausschuss beschließt mit der Mehrheit der Stimmen der anwesenden Mitglieder; bei Stimmengleichheit entscheidet die Stimme der Vorsitzenden oder des Vorsitzenden.
+
+---
+
+# Prüfungsordnung
+
+## § 5 Prüferinnen und Prüfer
+1. Der Prüfungsausschuss ist für die Bestellung der Prüfer und Prüferinnen für Modulprüfungen (§ 10) und für die Masterarbeit (§ 16) verantwortlich. Er kann diese Bestellung der/dem Vorsitzenden gen.
+2. Zur Prüferin oder zum Prüfer in Modulprüfungen darf nur bestellt werden, wer zu dem in § 65 Abs. 1 HG genannten Personenkreis gehört.
+3. Für Modulprüfungen gilt im Regelfall diejenige Person als zur Prüferin/zum Prüfer bestellt, die letzt für die Durchführung des geprüften Moduls verantwortlich war.
+4. Die Prüferinnen und Prüfer sind in ihrer Prüfungstätigkeit unabhängig.
+5. Bei Wiederholung einer mündlichen Prüfung kann der Prüfling beim Prüfungsausschuss mit einer schriftlichen Begründung eine neue Prüferin/einen neuen Prüfer vorschlagen. Dabei ist Abs. 2 zu beachten. Der Vorschlag begründet keinen Anspruch, nach Möglichkeit soll darauf aber Rücksicht genommen werden.
+6. Prüfungsleistungen in Wiederholungsprüfungen, bei deren endgültigem Nichtbestehen keine Gleichmöglichkeit vorgesehen ist, sind von mindestens zwei Prüferinnen bzw. Prüfern zu bewerten.
+7. Mündliche Prüfungen sind stets von mehreren Prüferinnen/Prüfern oder von einer Prüferin/einem Prüfer in Gegenwart eines sachkundigen Beisitzes abzunehmen. Zur Beisitzerin/zum Beisitzer für mündliche Prüfungen darf nur bestellt werden, wer jenen Studiengang, in dem die Prüfung abgelegt wird, oder einen verwandten Studiengang abgeschlossen hat.
+8. Die Prüfer und Beisitzer unterliegen der Amtsverschwiegenheit. Prüfer, die nicht im öffentlichen Dienst stehen, sind durch die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses zur Verschwiegenheit zu verpflichten. Beisitzer/innen werden von den bestellten Prüfern zur Verschwiegenheit verpflichtet.
+
+## § 6 Masterprüfung: Zweck
+1. Die Masterprüfung bildet den berufsqualifizierenden Abschluss des Masterstudiengangs. Durch diese Prüfung soll festgestellt werden, ob die in § 2 Abs. 2 genannten Ziele erreicht wurden.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 7 Masterprüfung: Zulassung
+(1) Zur Masterprüfung kann nur zugelassen werden, wer an der Heinrich-Heine-Universität Düsseldorf für den entsprechenden Masterstudiengang eingeschrieben oder gemäß § 52 Abs. 2 HZG als rer/in zugelassen ist.
+
+(2) Die Zulassung zur Masterprüfung muss abgelehnt werden, wenn
+- die Voraussetzung gemäß Abs. 1 nicht erfüllt ist oder
+- wenn der Prüfling eine Prüfung in demselben oder einem nahe verwandten Studiengang an einer anderen wissenschaftlichen Hochschule im Geltungsbereich des zes endgültig nicht bestanden hat.
+
+(3) Ein Studierender ist zur Masterprüfung angemeldet, sobald er sich gemäß § 11 erstmals zu einer Modulprüfung angemeldet hat.
+
+## § 8 Masterprüfung: Regeln
+(1) Die Masterprüfung besteht aus den studienbegleitenden Modulprüfungen gemäß § 10 und aus der Masterarbeit gemäß § 16. Die Masterprüfung soll in der Regel vor dem Ende des vierten Fachsemesters abgeschlossen sein.
+
+(2) Durch die Modulprüfungen, die Masterarbeit und anrechenbare Studienleistungen müssen nach Maßgabe des fachspezifischen Anhangs insgesamt in der Regel mindestens 120 Leistungspunkte erworben werden. Ausnahmen finden sich im fachspezifischen Anhang.
+
+(3) Ein Leistungspunkt (LP) im Sinne dieser Prüfungsordnung entspricht einem ECTS-Punkt (European Credit Transfer System) und wird für eine Leistung vergeben, die einen Arbeitsaufwand (work load) von etwa 30 Stunden erfordert, wenn der Erfolg dieser Arbeit durch eine Modulprüfung oder eine anrechenbare Studienleistung nachgewiesen ist.
+
+(4) Prüfungsleistungen im Sinne dieser Prüfungsordnung werden durch benotete Prüfungen erbracht und begründen die Modulnote gemäß § 12.
+
+(5) Studienleistungen im Sinne dieser Prüfungsordnung werden durch die aktive Teilnahme an Veranstaltungen erbracht. Studienleistungen sind unbenotet.
+
+(6) Macht die Kandidatin oder der Kandidat durch ärztliches Zeugnis glaubhaft, dass sie oder er wegen länger andauernder Krankheit oder ständiger seelischer oder körperlicher Behinderung nicht in der Lage ist, die Prüfungsleistung ganz oder teilweise in der vorgeschriebenen Form oder Zeit zu erbringen, ist ihr oder ihm durch den Prüfungsausschuss im Sinne des Nachteilsausgleichs zu ermöglichen, die Prüfungsleistungen in einer anderen Form zu erbringen. Vor Entscheidungen des Prüfungsausschusses kann die oder der Beauftragte für Studierende mit Behinderung oder chronischer Erkrankung mit Zustimmung der Kandidatin oder des Kandidaten um ein Votum gebeten werden. Ein Antrag auf Teilausgleich muss spätestens vier Wochen vor der jeweiligen Prüfung in schriftlicher Form beim Prüfungsausschuss gestellt werden.
+
+(7) Auf Antrag der Kandidatin oder des Kandidaten hat der Prüfungsausschuss darüber zu entscheiden, ob einzelne Prüfungsleistungen nach Ablauf vorgesehener Fristen innerhalb einer festzusetzenden Nachfrist abgelegt werden können. In dem Antrag sind die Gründe darzulegen und glaubhaft zu machen.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## § 8
+Bei der Anmeldung und Terminierung von Studien- und Prüfungsleistungen sind die Bestimmungen des Mutterschutzgesetzes und die Fristen des Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit zu berücksichtigen. Ausfallzeiten für die Pflege von Personen sind anzuerkennen. Die Inanspruchnahme der Schutzbestimmungen bzw. der Fristen ist von der Studentin bzw. dem Studenten schriftlich bei der Studierenden- und Prüfungsverwaltung zu beantragen; der Prüfungsausschuss ist zu benachrichtigen.
+
+## § 9
+### Anerkennung von Studien- und Prüfungsleistungen
+1. Gleichwertige Studienleistungen und Prüfungsleistungen, die im gleichen oder einem nahen Studiengang an einer anderen Universität oder einer gleichgestellten Hochschule erbracht wurden, werden auf Antrag anerkannt. Die für die Anerkennung erforderlichen Unterlagen sind vom Antragsteller beizubringen.
+2. Studienleistungen und Prüfungsleistungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.
+3. Die Gleichwertigkeit von Studien- und Prüfungsleistungen ist festzustellen, wenn diese in Inhalt, Umfang und Anforderungen denjenigen im hier geregelten Masterstudiengang im Wesentlichen entsprechen oder sie übertreffen. Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Bei Studien- und Prüfungsleistungen, die in Staaten erbracht werden, die dem Übereinkommen über die Anerkennung von Qualifikationen im Hochschulbereich in der Europäischen Region vom 11.04.1997 – sog. Lissabonner Anrechnungskonvention – beigetreten sind, erfolgt eine Anrechnung nur dann nicht, wenn wesentliche Unterschiede in den zu vergleichenden Leistungen festgestellt werden. Die Beweislast dafür, dass ein Antrag auf Anerkennung abgelehnt wird, obliegt dem Prüfungsausschuss. Gegen eine Ablehnung kann gemäß § 63a Abs. 5 HG eine Überprüfung der Entscheidung durch das Rektorat beantragt werden.
+4. Bei der Anerkennung und Anrechnung von Studienabschlüssen, Studien- und Prüfungsleistungen, die außerhalb des Geltungsbereiches des Grundgesetzes erbracht wurden, sind die von der Ministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Vereinbarungen im Rahmen von Hochschulpartnerschaften zu beachten.
+5. Wer aufgrund einer Einstufungsprüfung gemäß § 49 Abs. 11 HZG berechtigt ist, das Studium aufzunehmen, dem werden die in der Einstufungsprüfung nachgewiesenen Kenntnisse und Fähigkeiten, die den Inhalten des hier geregelten Masterstudiengangs entsprechen, als Prüfungsleistungen angerechnet. Die diesbezüglichen Feststellungen im Zeugnis über die Einstufungsprüfung sind für den Prüfungsausschuss bindend.
+6. Zuständig für Anerkennung und Anrechnung nach den Absätzen 1 bis 5 und für die Zuordnung der anzuerkennenden Studien- und Prüfungsleistungen zu den einzelnen Modulen ist der Prüfungsausschuss. Die oder der Studierende muss die für die Anrechnung erforderlichen Unterlagen vorlegen. Vor Feststellung der Gleichwertigkeit können zuständige Fachvertreter gehört werden.
+7. Werden Prüfungsleistungen für den hier geregelten Masterstudiengang anerkannt, so werden die Noten übernommen (soweit die Notensysteme vergleichbar sind) und nach Maßgabe dieser Ordnung in die Berechnung der Gesamtnote einbezogen. Bei unvergleichbaren Notensystemen wird der Vermerk „bestanden“ aufgenommen. Eine Kennzeichnung der Anerkennung im Zeugnis ist zulässig.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung für den Masterstudiengang an der Heinrich-Heine-Universität Düsseldorf
+
+## § 8 Anerkennung von Studienleistungen
+(8) Im Falle der Anerkennung einer auswärtigen Studienleistung darf kein Modul mit vergleichbarem Inhalt im Masterstudiengang an der Heinrich-Heine-Universität Düsseldorf erneut besucht werden. Anerkennungsanträge müssen deshalb spätestens drei Monate nach Aufnahme des Studiums an der Heinrich-Heine-Universität Düsseldorf und vor der Anmeldung zu inhaltlich vergleichbaren Modulen gestellt werden. Anerkennungen zu einem späteren Zeitpunkt sind nicht möglich. Sollte bereits an der Heinrich-Heine-Universität Düsseldorf eine Prüfung in einem zur Anrechnung beantragten Modul abgelegt worden sein, ist eine Anerkennung einer andernorts absolvierten Studienleistung für dieses Modul ausgeschlossen.
+
+(9) Eine Anerkennung andernorts abgeschlossener Masterarbeiten ist in der Regel nicht möglich.
+
+## § 10 Modulprüfungen: Allgemeine Regeln, Zugangsbeschränkungen
+(1) Eine Modulprüfung hat als Gegenstand die Inhalte eines Moduls. Die Prüfungsleistungen werden studienbegleitend, in engem zeitlichen Anschluss an den Besuch der betreffenden Lehrveranstaltungen des Moduls erbracht.
+
+(2) Ein Modul umfasst eine oder mehrere Lehrveranstaltungen. Dabei kann der Prüfling dieselbe Veranstaltung nicht als Bestandteil verschiedener Module eines Studiengangs wählen.
+
+(3) Für einzelne Module oder Lehrveranstaltungen kann z.B. aus didaktischen, kapazitären oder anderen Gründen eine Zulassungsbeschränkung (maximale Teilnehmerzahl) festgelegt werden. Die Festlegung und Veröffentlichung sowie die Benennung der Kriterien erfolgt durch den jeweiligen Prüfungsausschuss vor Beginn der Anmeldefristen. Für die Rangfolge bei der Zulassung der Studierenden werden folgende Kriterien herangezogen:
+- Studiengang, für den das Modul/die Lehrveranstaltung belegt wird;
+- Fachsemester des Studierenden;
+- Bisherige Studienleistungen.
+
+(4) Für jedes Modul werden die Inhalte der geforderten Prüfungsleistungen und/oder Studienleistungen vom Prüfungsausschuss bekannt gemacht. In der Regel sind diese Inhalte in den vom Prüfungsausschuss veröffentlichten Modulbeschreibungen festgelegt.
+
+(5) Art und genaue Durchführung einer Modulprüfung werden von den gemäß § 5 bestellten Prüferinnen/Prüfern festgelegt. Für jede Modulprüfung wird den Studierenden zu Beginn der Veranstaltungen des Moduls per Internet und/oder Aushang bekannt gegeben:
+- Zulassungsvoraussetzungen (z.B. bestimmte Studienleistungen);
+- Art, Umfang und Dauer der zu erbringenden Prüfungsleistungen;
+- erlaubte Hilfsmittel;
+- Verfahren, mit dem die Note ermittelt bzw. der Erfolg festgestellt wird.
+
+(6) In der Regel werden Modulprüfungen zu drei Terminen pro Studienjahr im Abstand von mindestens 3 Wochen angeboten:
+- Zeitnah im Anschluss an die letzte Lehrveranstaltung des Moduls.
+- Innerhalb von 6 Monaten nach dem ersten Termin.
+- Innerhalb von 6 Monaten nach dem zweiten Termin.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## Prüfungstermine
+Die Prüfungstermine werden zu Beginn der Lehrveranstaltungen des Moduls oder spätestens drei Tage vor jeder Prüfung bekannt gegeben. Bei mündlichen Prüfungen werden statt konkreter Termine Terminfenster bekannt gegeben.
+
+## Modulprüfungen
+(7) Modulprüfungen haben in der Regel die Form einer Modul-Abschlussprüfung. Sie haben den Stoff des gesamten Moduls zum Inhalt. Modulprüfungen können von der Prüferin/vom Prüfer als schriftliche, mündliche Prüfungen und in anderer Form (z.B. Vorträge oder Abschlussberichte) festgelegt werden.
+
+(8) Eine Klausur ist eine schriftliche Arbeit unter Aufsicht, die von der Prüferin/vom Prüfer gestellt und mit einer Note bewertet wird. Die Dauer von Klausuren soll 1 Stunde nicht unterschreiten und 4 Stunden nicht überschreiten.
+
+(9) Eine mündliche Prüfung ist eine Einzel- oder Gruppenprüfung mit maximal 6 Prüflingen. Die Gesamtdauer einer mündlichen Prüfung soll 15 Minuten pro Prüfling nicht unterschreiten und 60 Minuten pro Prüfling nicht überschreiten. Die Prüfung wird durch die/den bestellten Prüfer/innen abgenommen. Die Gegenstände und die Ergebnisse der Prüfung sind in einem Protokoll festzuhalten. Die Festsetzung der Note erfolgt durch die/den Prüfer/innen. Eine anwesende Beisitzerin/ein anwesender Beisitzer ist vor der Festsetzung zu hören. Das Ergebnis der mündlichen Prüfung ist dem Prüfling im Anschluss an die Prüfung mitzuteilen.
+
+(10) Bei mündlichen Modulprüfungen sind Zuhörer und Zuhörerinnen nach Maßgabe der vorhandenen Plätze zugelassen. Die Zulassung erstreckt sich nicht auf die Beratung und Bekanntgabe des Ergebnisses. Auf schriftlichen Antrag des Prüflings bei der Prüfungsanmeldung werden Zuhörer/innen von der Prüfung ausgeschlossen. Die Prüferinnen und Prüfer haben das Recht, Zuhörer/innen bei Störung des Prüfungsverlaufs während der Prüfung auszuschließen.
+
+(11) Ein selbstständig gehaltener Vortrag im Rahmen eines Seminars kann als Prüfungsleistung benotet werden. Der/die verantwortliche Lehrende gibt hierzu zu Beginn des Seminars Bewertungskriterien an. Die Benotung erfolgt innerhalb von vier Wochen nach Beendigung des Seminars.
+
+(12) Ein schriftlicher Bericht ist eine schriftliche Ausarbeitung zu einer Lehrveranstaltung und wird in der Regel benotet. Der/die verantwortliche Lehrende gibt hierzu Bewertungskriterien bekannt. Die Benotung erfolgt innerhalb von vier Wochen nach Abgabe des Berichts.
+
+(13) Weitere Prüfungsformen werden im fachspezifischen Anhang dieser Prüfungsordnung festgelegt.
+
+(14) Macht der Prüfling durch ein ärztliches Zeugnis glaubhaft, dass sie oder er wegen einer gesundheitlichen Beeinträchtigung nicht in der Lage ist, eine Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, kann der Prüfungsausschuss gestatten, gleichwertige Prüfungsleistungen in einer anderen Form zu erbringen.
+
+(15) In Ausnahmefällen kann der Prüfungsausschuss festlegen, dass eine Modulprüfung als kumulative Modulprüfung abgehalten wird. Diese setzt sich aus mehreren Prüfungsleistungen zusammen, die jeweils einen Teil des dem Modul zugeordneten Lernstoffs zum Gegenstand haben.
+
+## § 11 Modulprüfungen: An- und Abmeldung, Fristen
+(1) Die Anmeldung zu einer Modulprüfung muss mindestens eine Woche vor dem Prüfungstermin bei der Studierenden- und Prüfungsverwaltung der Heinrich-Heine-Universität Düsseldorf erfolgen.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## § 12 Modulprüfungen: Bewertung, Notenskala
+
+(1) Für die Bewertung von Prüfungsleistungen sind folgende Noten zu verwenden:
+
+| Note | Beschreibung |
+|------|--------------|
+| 1 (sehr gut) | eine hervorragende Leistung; |
+| 2 (gut) | eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt; |
+| 3 (befriedigend) | eine Leistung, die durchschnittlichen Anforderungen entspricht; |
+| 4 (ausreichend) | eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt; |
+| 5 (nicht ausreichend) | eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt. |
+
+Zur Differenzierung können die Noten um 0,3 erhöht oder verringert werden; die Noten 0,7 und 4,3 sowie 4,7 und 5,3 sind dabei ausgeschlossen.
+
+(2) Zuständig für die Vergabe der Note jeder Modulprüfung sind die jeweiligen bestellten Prüfer und Prüferinnen.
+
+(3) Für Module mit kumulativer Modulprüfung (§ 10 Abs. 15) werden die gemäß Abs. 1 vergebenen Noten der einzelnen Prüfungsleistungen gemittelt. Bei dieser Mittelung sind Prüfungsleistungen zu verschiedenen Lehrveranstaltungen im Verhältnis der Leistungspunkte zu gewichten, die den Veranstaltungen zugeordnet sind. Dieser Mittelwert ist die Modulnote, wobei die Note kaufmännisch auf eine Nachkommastelle gerundet wird.
+
+## § 13 Modulprüfungen: Bestehen und Nichtbestehen
+
+(1) Eine Prüfungsleistung ist mit Erfolg erbracht und die Modulprüfung somit bestanden, wenn sie mindestens mit „ausreichend“ (kleiner oder gleich 4,0) bewertet wurde.
+
+----
+
+(2) Die Anmeldung zu bestimmten Modulprüfungen kann von Voraussetzungen abhängen, die im spezifischen Anhang definiert sind.
+
+(3) Die Abmeldung von einer Prüfung bei der Studierenden- und Prüfungsverwaltung ist bis eine Woche vor dem Prüfungstermin zulässig.
+
+(4) Das An- und Abmeldeverfahren für Modulprüfungen in einem Studiengang kann abweichend von Abs. 1 und Abs. 3 im fachspezifischen Anhang geregelt werden. Zudem kann der jeweils zuständige Prüfungsausschuss für einzelne Modulprüfungen in Abstimmung mit der Studierenden- und Verwaltung andere Regelungen für die An- und Abmeldung festlegen als in der Prüfungsordnung gesehen. Diese Regelungen sind per Aushang oder im Internet bekannt zu machen.
+
+(5) Angemeldete Kandidaten und Kandidatinnen, die bis zum Termin der Prüfung die Voraussetzungen nicht erbracht haben, gelten als nicht angemeldet.
+
+(6) Die Prüfungsleistungen oder gegebenenfalls Vermerke über die Nichterfüllung der Voraussetzungen müssen für alle angemeldeten Kandidaten und Kandidatinnen spätestens vier Wochen nach dem Abschluss einer Prüfung von der Prüferin/vom Prüfer an die Studierenden- und Verwaltung übermittelt werden.
+
+---
+
+# Prüfungsordnung
+
+## § 14 Modulprüfungen: Wiederholung
+1. Die Wiederholung bestandener Prüfungsleistungen ist nicht zulässig.
+2. Ist eine Modulprüfung nicht bestanden, so erteilt die Studierenden- und Prüfungsverwaltung dem Prüfling hierüber einen schriftlichen Bescheid, der auch darüber Auskunft gibt, ob und gegebenenfalls in welcher Form und mit welchen Fristen die Prüfung wiederholt werden kann. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
+3. Eine nicht bestandene Modulprüfung kann zweimal wiederholt werden.
+4. Die Wiederholung einer nicht bestandenen Modulprüfung soll zum nächstmöglichen Termin (bzw. im Falle einer mündlichen Prüfung: Terminfenster) erfolgen. Die Abmeldung von der Prüfung ist erlaubt (siehe § 11 Abs. 3).
+5. Die Form der Wiederholungsprüfung muss nicht mit der Form der ursprünglichen Prüfung stimmen. Die Festsetzung der Form der Wiederholungsprüfung erfolgt durch die Prüferin/den Prüfer.
+6. Die Modulnote einer wiederholten Modul-Abschlussprüfung ist gleich der Note für die Bewertung der Wiederholungsprüfung.
+7. Innerhalb einer kumulativen Modulprüfung können nur jene Prüfungsleistungen wiederholt werden, die mit „nicht ausreichend“ (5,0) bewertet wurden. Die wiederholte kumulative Modulprüfung ist bestanden, wenn die Bedingungen aus § 13 Abs. 3 erfüllt sind. Die Note der wiederholten Modulprüfung ergibt sich gemäß § 12 Abs. 3 unter Berücksichtigung der Note der wiederholten Prüfungsleistungen.
+8. Eine Modulprüfung gilt als endgültig nicht bestanden, wenn sie bei der Maximalzahl erlaubter Wiederholungen jedes Mal mit „nicht ausreichend“ (5,0) bewertet wurde.
+9. Die Wiederholung von Modulprüfungen kann für einen Studiengang abweichend von Abs. 3 und Abs. 4 im fachspezifischen Anhang geregelt werden.
+
+## § 15 Modulprüfungen: Versäumnis, Rücktritt, Täuschung und Ordnungsverstoß
+1. Eine Prüfungsleistung gilt als nicht mit Erfolg erbracht, wenn der Prüfling einen Prüfungstermin ohne triftige Gründe versäumt oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.
+2. Triftige Gründe, die für das Versäumnis oder für den Rücktritt geltend gemacht werden sollen, müssen dem Prüfungsausschuss unverzüglich über die Studierenden- und Prüfungsverwaltung angezeigt und glaubhaft gemacht werden. Erkennt der Prüfungsausschuss die Gründe an, so gilt...
+
+----
+
+**Hinweis:** Die Informationen sind aus einer offiziellen Bekanntmachung der HHU entnommen.
+
+---
+
+# Prüfungsordnung
+
+## § 15 Prüfungsleistungen
+
+(1) Die Prüfung als nicht unternommen. Bei Krankheit ist der Studierenden- und Prüfungsverwaltung ein ärztliches Attest vorzulegen, aus dem die Prüfungsunfähigkeit hervorgeht.
+
+(2) Versucht der Prüfling, das Ergebnis seiner Prüfungsleistung durch Täuschung oder durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als nicht bestanden. Die Verwendung elektronischer Geräte (wie z. B. Smartphones oder Smartwatches) in Prüfungen ist nicht gestattet. Das Herausholen oder die Benutzung eines nicht zugelassenen Hilfsmittels im Sinne von § 18 der Prüfungsordnung kann mit dem Nichtbestehen der Prüfung geahndet werden, es sei denn, dienahme oder Nutzung wurde von der oder dem Modulverantwortlichen oder den Aufsichtsführenden vorher ausdrücklich erlaubt.
+
+(3) Stört ein Prüfling den ordnungsgemäßen Ablauf der Prüfung, so kann er von der Prüferin/vom Prüfer nach Abmahnung von der Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als nicht bestanden.
+
+(4) Der Prüfling kann innerhalb von vier Wochen verlangen, dass eine Entscheidung nach Abs. 3 oder 4 vom Prüfungsausschuss überprüft wird. Belastende Entscheidungen des Prüfungsausschusses sind dem Prüfling unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. Dem Prüfling ist vor der Entscheidung Gelegenheit zu rechtlichem Gehör zu geben.
+
+## § 16 Masterarbeit: Themenstellung
+
+(1) Die Masterarbeit ist die wissenschaftliche Abschlussarbeit des Masterstudiengangs. Mit dieser Arbeit soll der Prüfling nachweisen, dass sie/er in der Lage ist, innerhalb einer vorgegebenen Frist ein größeres Thema aus ihrem/seinem Studienfach unter Berücksichtigung guter wissenschaftlicher Praxis selbstständig wissenschaftlich zu bearbeiten und angemessen darzustellen. Die Masterarbeit kann auf Deutsch oder Englisch angefertigt werden.
+
+(2) Die Themenstellung und Betreuung der Masterarbeit erfolgt durch eine Professorin oder einen Professor oder durch eine/n habilitierte/n wissenschaftliche/n Mitarbeiter/in, die oder der hauptberuflich im Fach des geregelten Studiengangs an der Heinrich-Heine-Universität Düsseldorf tätig ist. Ausnahmen von Satz 1 regelt der Prüfungsausschuss. Ebenso erfolgt die Bestellung der Betreuerin/des Betreuers durch den Prüfungsausschuss.
+
+(3) Der Antrag auf Themenstellung für die Masterarbeit ist vom Prüfling an eine oder einen vom Prüfungsausschuss gem. Abs. 2 zugelassene(n) Betreuer(in) zu stellen. Voraussetzungen und Fristen für diese Antragstellung finden sich im fachspezifischen Anhang.
+
+(4) Das Thema der Masterarbeit wird von der vorgeschlagenen Betreuerin oder dem vorgeschlagenen Betreuer gestellt und an den Prüfungsausschuss weitergeleitet. Der Prüfungsausschuss legt bei Vorliegen der Voraussetzungen einen Zweitprüfer fest, übermittelt das Thema der Masterarbeit sowie die Namen der Prüfer an die Studierenden- und Prüfungsverwaltung und den Prüfling. Die Frist beginnt mit dem Datum dieser Mitteilung.
+
+(5) Bei Vorliegen aller Voraussetzungen gemäß fachspezifischem Anhang kann ein Prüfling auch ohne eigene Vorschläge oder ohne Zustimmung eines Betreuers oder einer Betreuerin beantragen, dass ihm vom Prüfungsausschuss ein Thema für die Masterarbeit gestellt und ein/e Betreuer/in zugewiesen wird. In diesem Fall erfolgt die Themenstellung für die Masterarbeit sowie die Zuweisung eines Betreuers oder einer Betreuerin durch den Prüfungsausschuss binnen eines Monats.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung für den Masterstudiengang
+
+## § 16 Masterarbeit: Thema und Bearbeitungszeit
+
+(6) Das Thema der Masterarbeit und der Beginn der Bearbeitungszeit sind von der Studierenden- und Prüfungsverwaltung für die Kandidatin/den Kandidaten ersichtlich aktenkundig zu machen.
+
+(7) Das Thema kann vom Prüfling nur einmal und nur binnen zwei Wochen nach Beginn der Bearbeitungszeit zurückgegeben werden. In diesem Fall erfolgt eine erneute Themenstellung nach Abs. 4 oder Abs. 5. Nach Maßgabe von § 15 Abs. 2 kann das Thema aus triftigem Grund auch zu einem späteren Zeitpunkt zurückgegeben werden.
+
+(8) Bearbeitungszeit, Umfang und Abgabefrist der Masterarbeit sind im fachspezifischen Anhang geregelt.
+
+(9) Bei einer Abgabe der Masterarbeit hat der Prüfling zu versichern, dass er die Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat.
+
+## § 17 Masterarbeit: Bewertung und Annahme
+
+(1) Die Masterarbeit ist in elektronischer Form (als PDF-Dokument) fristgemäß, d.h. spätestens mit Ablauf der Bearbeitungsfrist, abzuliefern. Die Ablieferung erfolgt durch das Hochladen des Dokuments im Studierendenportal der Heinrich-Heine-Universität Düsseldorf (studierendenportal.hhu.de). Das Datum der Abgabe wird von der Studierenden- und Prüfungsverwaltung aktenkundig gemacht. Wird die Masterarbeit nicht fristgemäß abgeliefert, gilt sie als mit „nicht ausreichend“ (5,0) bewertet. Auf Verlangen der Erstprüferin/des Erstprüfers reicht der Prüfling unverzüglich zwei mit der elektronischen Fassung identische gebundene Exemplare der Arbeit bei der Erstprüferin/dem Erstprüfer ein.
+
+(2) Die Masterarbeit ist von zwei Prüfer/inne/n zu bewerten, die die Qualifikation zur Vergabe von Noten gemäß § 16 Abs. 2 haben. Zumindest eine dieser Personen muss hauptberuflich an der Heinrich-Heine-Universität Düsseldorf tätig sein. Erstprüferin oder Erstprüfer ist die oder der Betreuende der Masterarbeit. Die Bestellung der Prüfer/innen für die Masterarbeit erfolgt durch den Prüfungsausschuss.
+
+(3) Die Erstprüferin/der Erstprüfer nimmt eine Bewertung der Masterarbeit vor und begründet diese schriftlich. Der/die Zweitprüfer/in kann sich dieser Bewertung und der Begründung anschließen oder eine abweichende Bewertung vornehmen, die dann ebenfalls schriftlich begründet sein muss. Die Bewertungen erfolgen durch Noten gemäß § 12 Abs.1.
+
+(4) Die Note der Masterarbeit ist das auf eine Nachkommastelle kaufmännisch gerundete arithmetische Mittel der von den beiden Prüfer/inne/n gemäß Abs. 3 vergebenen Noten, sofern diese beide mindestens „ausreichend“ (4,0) sind und um nicht mehr als 2,0 voneinander abweichen. Sind die beiden Noten „nicht ausreichend“ (5,0), so ist dies auch die Note der Masterarbeit. In allen anderen Fällen bestellt der Prüfungsausschuss eine weitere Person gemäß Abs. 2 als Prüfer/in, die eine dritte Note für die Masterarbeit vergibt und diese schriftlich begründet. Die Note der Masterarbeit ist dann das auf eine Nachkommastelle gerundete arithmetische Mittel der beiden besseren von den insgesamt drei vergebenen Noten, sofern diese besseren Noten beide mindestens „ausreichend“ (4,0) lauten, andernfalls ist die Bewertung der Masterarbeit „nicht ausreichend“ (5,0).
+
+(5) Die Bewertung der Masterarbeit muss dem Prüfling vom Prüfungsausschuss spätestens sechs Wochen nach der Abgabe mitgeteilt werden, im Fall der Heranziehung einer dritten Prüferin oder eines dritten Prüfers spätestens nach acht Wochen.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung für die Masterarbeit
+
+## § 17 Masterarbeit: Annahme und Bewertung
+(6) Eine mit der Note „ausreichend“ (4,0) oder besser bewertete Masterarbeit ist angenommen. Für eine angenommene Masterarbeit werden alle dafür vorgesehenen Leistungspunkte vergeben (siehe zifischer Anhang).
+
+(7) Wird die Masterarbeit nicht angenommen, so muss die Mitteilung durch den Prüfungsausschuss in schriftlicher Form erfolgen und Auskunft darüber geben, ob die Masterarbeit wiederholt werden kann (§ 18). Der Bescheid über die Nichtannahme der Masterarbeit ist mit einer Rechtsbehelfsbelehrung zu versehen.
+
+(8) § 15 gilt für die Masterarbeit sinngemäß.
+
+## § 18 Masterarbeit: Wiederholung
+(1) Eine nach § 17 Abs. 6 angenommene Masterarbeit kann nicht wiederholt werden.
+
+(2) Eine Masterarbeit, die nach § 17 Abs. 7 oder 8 mit der Note „nicht ausreichend“ bewertet wurde und somit als nicht angenommen gilt, kann einmal wiederholt werden. Eine zweite Wiederholung ist ausgeschlossen.
+
+(3) Der Antrag auf Zulassung und Themenstellung (§ 16) für die Wiederholung der Masterarbeit muss spätestens drei Monate nach Absendung der Mitteilung gestellt werden, in der dem Prüfling die Nichtannahme der nicht angenommenen Masterarbeit mitgeteilt wurde.
+
+(4) Die Ausgabe des Themas bei der Wiederholung erfolgt gemäß § 16.
+
+## § 19 Zusatzmodule
+(1) Der Prüfling kann im Rahmen der Masterprüfung Modulprüfungen in mehr als den im zifischen Anhang vorgeschriebenen Modulen seines oder eines nahe verwandten Studiengangs ablegen (Zusatzmodule). Das Ergebnis der Prüfung in diesen Modulen wird auf Antrag des Prüflings in das Zeugnis aufgenommen, jedoch bei der Festsetzung der Gesamtnote nicht mit einbezogen. Der Ausschuss kann das Belegen von Zusatzmodulen untersagen, insbesondere aus Gründen der Zivilität.
+
+## § 20 Einsicht in die Prüfungsakten
+(1) Innerhalb eines Monats nach Bekanntgabe der Ergebnisse wird zu jeder Klausur ein Termin angeboten, an dem jeder Prüfling Einsicht in seine Prüfungsarbeit nehmen kann.
+
+(2) Auf Antrag (bei der Lehrperson) wird einem Prüfling die Gelegenheit gegeben, eine Kopie einer korrigierten und bewerteten schriftlichen Prüfungsleistung zu erstellen. Dies beinhaltet die Stellung.
+
+(3) Nach Abschluss der Masterprüfung wird dem Prüfling von der Studierenden- und Prüfungsverwaltung auf Antrag Einsicht in die ihn betreffenden Prüfungsprotokolle und Gutachten gewährt. Der Antrag ist innerhalb eines Monats nach Ausgabe des Zeugnisses schriftlich zu stellen.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# § 21 Masterprüfung: Bewertung
+
+(1) Die Masterprüfung ist bestanden, wenn alle Leistungspunkte nach Maßgabe des fachspezifischen Anhangs erworben worden sind.
+
+(2) Die Gesamtnote der Masterprüfung ergibt sich aus dem gewichteten Mittel der Noten der Prüfungen und der Note der angenommenen Masterarbeit. Die Gewichtung der Module ist im fachspezifischen Anhang festgelegt.
+
+(3) Die Gesamtnote der bestandenen Masterprüfung wird auf eine Nachkommastelle kaufmännisch gerundet angegeben.
+
+(4) Für eine bestandene Masterprüfung wird ein Prädikat nach folgendem Schlüssel vergeben:
+
+| Gesamtnote       | Prädikat      |
+|------------------|---------------|
+| 1,0 – 1,5        | sehr gut      |
+| 1,6 – 2,5        | gut           |
+| 2,6 – 3,5        | befriedigend  |
+| 3,6 – 4,0        | ausreichend    |
+
+(5) Zusätzlich wird im Diploma Supplement eine ECTS-Einstufungstabelle angegeben, die Auskunft über die statistische Verteilung der erzielten Noten innerhalb der zugehörigen Studierendengruppe gibt. Die ECTS-Einstufungstabelle wird nach folgendem Schema erstellt:
+
+| Gesamtzahl der Absolventen im Master | Notenintervall | Anteil in % | Aufsummierter Anteil in % |
+|--------------------------------------|----------------|-------------|---------------------------|
+|                                      | 1,0 – 1,2      |             |                           |
+|                                      | 1,3 – 1,6      |             |                           |
+|                                      | 1,7 – 1,9      |             |                           |
+|                                      | 2,0 – 2,2      |             |                           |
+|                                      | 2,3 – 2,6      |             |                           |
+|                                      | 2,7 – 2,9      |             |                           |
+|                                      | 3,0 – 3,2      |             |                           |
+|                                      | 3,3 – 3,6      |             |                           |
+|                                      | 3,7 – 4,0      |             |                           |
+
+Stichtag für die Erstellung der ECTS-Einstufungstabelle ist immer der 31.12. eines jeden Jahres. Als Berechnungsgrundlage werden die Gesamtnoten der Absolventinnen und Absolventen des Studiengangs herangezogen, die in den fünf vorangegangenen Prüfungsjahren ihr Studium geschlossen haben. Die ECTS-Einstufungstabelle kann nicht angegeben werden, wenn weniger als 50 Studierende den Studiengang absolviert haben.
+
+# § 22 Masterprüfung: Nichtbestehen
+
+(1) Die Masterprüfung ist endgültig nicht bestanden, wenn
+
+- eine wiederholte Masterarbeit nicht angenommen wurde (§ 17), oder
+- eine Modulprüfung endgültig nicht bestanden wurde (§ 14 Abs. 8), für die keine Wiederholungsmöglichkeit besteht.
+
+---
+
+# Prüfungsordnung der Heinrich-Heine-Universität Düsseldorf
+
+## § 23 Masterprüfung: Akademischer Grad, Zeugnis, Urkunde
+1. Aufgrund der bestandenen Masterprüfung verleiht die Mathematisch-Naturwissenschaftliche Fakultät der Heinrich-Heine-Universität Düsseldorf den akademischen Grad „Master of Science“ (abgekürzt: „M. Sc.“) im jeweiligen Fach.
+2. Hat der Prüfling die Masterprüfung bestanden, so erhält er ein Zeugnis, in dem die Gesamtnote sowie die abgelegten Modulprüfungen mit den zugehörigen Noten und Leistungspunkten aufgeführt sind. Außerdem werden das Thema der Masterarbeit und deren Note und Leistungspunktezahl aufgeführt. Das Zeugnis trägt das Datum des Tages der letzten Prüfung und die Unterschrift der/des Vorsitzenden des Prüfungsausschusses.
+3. Auf Antrag des Prüflings werden Prüfungsergebnisse in Zusatzmodulen gemäß § 19 mit in das Zeugnis aufgenommen.
+4. Dem Zeugnis wird ein Diploma Supplement in deutscher und englischer Sprache beigefügt, welches eine Beschreibung der durch diesen Studiengang erworbenen Qualifikation sowie die erreichte Note (§ 21 Abs. 3), das Prädikat (§ 21 Abs. 4) und die ECTS-Einstufungstabelle (§ 21 Abs. 5) enthält.
+5. Gleichzeitig mit dem Zeugnis wird dem Prüfling die Masterurkunde mit dem Datum des Zeugnisses ausgehändigt. Darin wird die Verleihung des Mastergrades gemäß Abs. 1 beurkundet.
+6. Die Masterurkunde wird von der Dekanin oder dem Dekan der Mathematischen Fakultät der Heinrich-Heine-Universität Düsseldorf und von der/des Vorsitzenden des Ausschusses unterzeichnet und mit dem Siegel der Fakultät versehen.
+7. Hat ein Prüfling die Masterprüfung noch nicht oder endgültig nicht bestanden, so wird ihm auf Antrag eine schriftliche Bescheinigung ausgestellt, welche die erreichten Leistungspunkte sowie die absolvierten Modulprüfungen mit deren Noten enthält, die zum Bestehen der Masterprüfung noch erforderlich sind, und erkennen lässt, dass die Masterprüfung noch nicht oder endgültig nicht bestanden ist.
+
+## § 24 Masterprüfung: Ungültigkeit
+1. Hat der Prüfling bei einer Prüfung getäuscht und wird diese Tatsache erst nach Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die Noten für diejenigen Leistungen, bei deren Erbringung der Prüfling getäuscht hat, entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären.
+2. Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Prüfling darüber täuschen wollte, und wird diese Tatsache erst nach Bekanntgabe der Prüfungsergebnisse bzw. Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.
+3. Hat der Prüfling die Zulassung zu einer Prüfung vorsätzlich zu Unrecht erwirkt, so entscheidet der Prüfungsausschuss unter Beachtung des Verwaltungsverfahrensgesetzes für das Land Nordrhein-Westfalen vom 21. Dezember 1976 (GV. NW. Seite 438) in der jeweils geltenden Fassung über die Folgen.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung der Mathematisch-Naturwissenschaftlichen Fakultät
+
+## § 25 Übergangsbestimmungen
+1. Diese Prüfungsordnung gilt für alle Studierenden der im fachspezifischen Anhang genannten Masterstudiengänge der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf, die nach jenem Datum für ihren Studiengang eingeschrieben wurden, das dort als Stichtag genannt ist.
+2. Studierende, die vor dem in Abs. 1 definierten Datum erstmalig für einen der im fachspezifischen Anhang genannten Masterstudiengänge eingeschrieben wurden, legen die Masterprüfung nach der zum Zeitpunkt der erstmaligen Einschreibung geltenden Prüfungsordnung ab, es sei denn, dass sie die Anwendung der neuen Prüfungsordnung beantragen. Der Antrag auf Anwendung der neuen Prüfungsordnung ist schriftlich über die Studierenden- und Prüfungsverwaltung an den Prüfungsausschuss zu richten und muss spätestens mit der Anmeldung zur letzten Modulprüfung für die Masterprüfung gestellt werden. Dieser Antrag ist unwiderruflich.
+
+## Artikel II
+
+## § 26 Inkrafttreten und Veröffentlichung
+Diese Ordnung tritt am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Heinrich-Heine-Universität Düsseldorf in Kraft und gilt für alle Studierenden der hier enthaltenen Studiengänge, die ihr Studium zum im fachspezifischen Anhang aufgeführten Stichtag oder später aufgenommen haben.
+
+Ausgefertigt aufgrund des Beschlusses des Fakultätsrats der Mathematisch-Naturwissenschaftlichen Fakultät der Heinrich-Heine-Universität Düsseldorf vom 20.07.2021.
+
+Düsseldorf, den 26.11.2021
+
+Die Rektorin der Heinrich-Heine-Universität Düsseldorf
+Anja Steinbeck (Univ.-Prof. Dr. iur.)
+
+HHU Amtliche Bekanntmachungen Nr. 53/2021
+
+---
+
+# Master Informatik
+
+---
+
+# Fachspezifischer Anhang zur Prüfungsordnung „Master of Science“
+## für den Masterstudiengang Informatik
+### an der Heinrich-Heine-Universität Düsseldorf
+
+### Zu § 3 Abs. 3 Studium: Aufbau
+
+| Wahlpflichtbereiche/ Lehreinheiten         | Typ | LPs | wicht | |
+|--------------------------------------------|-----|-----|-------|---|
+|                                            |     |     | tens) | |
+| Praktische oder Technische Informatik      | WP  | 1-3 | 15    | 1     |
+| Theoretische Informatik                    | WP  | 1-3 | 15    | 1     |
+| Projektarbeit                              | WP  | 2+3 | 20    | 0     |
+| Schwerpunkt                                | WP  | 1-3 | 30    | 2     |
+| Individuelle Ergänzung                     | WP  | 1-3 | 10    | 0     |
+| Masterarbeit (6 Monate) einschließlich     | MA  | 4   | 30    | 2     |
+| **Summe**                                  |     |     | **120** | |
+
+**Legende:**
+- WP: Wahlpflicht
+- MA: Masterarbeit
+
+Die Wahlpflichtbereiche „Praktische oder Technische Informatik“, „Theoretische Informatik“, „Projektarbeit“ und „Individuelle Ergänzung“ umfassen die Wahlpflichtmodule, die im Handbuch für den Masterstudiengang Informatik als Angebote für diese Bereiche entsprechend gekennzeichnet sind.
+
+Für den Wahlpflichtbereich „Individuelle Ergänzung“ können auch Module aus dem Modulhandbuch für den Bachelorstudiengang Informatik gewählt werden, die als Angebote für diesen Bereich gekennzeichnet sind, sofern die Studierenden in ihrem Bachelorstudium nicht bereits Module mit ähnlichem Inhalt absolviert haben.
+
+Für den Wahlpflichtbereich „Schwerpunkt“ können auch Module aus anderen Fächern gewählt werden, die den im Bachelorstudium gewählten Schwerpunkt fortsetzen und vertiefen. Darüber hinaus kann der Prüfungsausschuss jedes andere Fach, das an der Heinrich-Heine-Universität vertreten ist und Methoden der Informatik benutzt, auf schriftlichen Antrag als Schwerpunktfach zulassen. Die Festlegung des Schwerpunktfaches erfolgt bei der Studierenden- und Prüfungsverwaltung vor Absolvierung der ersten Prüfungsleistung im Schwerpunktfach. Auf begründeten Antrag kann der Prüfungsausschuss den Wechsel des Schwerpunktfaches zulassen, solange die Fachprüfungen im Schwerpunkt nicht endgültig nicht bestanden sind.
+
+Alle für die Wahlpflichtbereiche „Praktische oder Technische Informatik“, „Theoretische Informatik“ und „Schwerpunkt“ gewählten Module müssen mit einer benoteten Modulprüfung abschließen. Die gewählten Module für die Wahlpflichtbereiche „Projektarbeit“ und „Individuelle Ergänzung“ können mit einer benoteten oder unbenoteten Modulprüfung abschließen.
+
+Ein Modul für den Masterstudiengang Informatik kann nur dann einem Wahlpflichtbereich zugeordnet werden, wenn das Modul im Rahmen des Masterstudiums Informatik absolviert wurde oder das Modul im Rahmen des Bachelorstudiums Informatik absolviert, aber nicht als Prüfungsleistung im Studium Informatik verwendet wurde.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Prüfungsordnung
+
+## Notenbildung
+Die Noten der Wahlpflichtbereiche „Praktische oder Technische Informatik“, „Theoretische Informatik“ und „Schwerpunkt“ bilden sich aus dem arithmetischen Mittel der absolvierten Modulprüfungen in den Wahlpflichtbereichen gewichtet mit den Leistungspunkten der Module.
+
+Die Gesamtnote bildet sich aus dem arithmetischen Mittel der Noten für die Wahlpflichtbereiche „Praktische oder Technische Informatik“, „Theoretische Informatik“ und „Schwerpunkt“ und der Note der Masterarbeit, gewichtet mit den oben in der Tabelle angegebenen Gewichtsfaktoren, auch wenn in einem Bereich mehr als die mindestens verlangten Leistungspunkte erworben wurden.
+
+Die Projektarbeit dient der Vorbereitung auf die Masterarbeit und soll in der Regel in derjenigen Arbeitsgruppe absolviert werden, in der auch die Masterarbeit durchgeführt wird.
+
+In der Disputation stellt der Studierende die Ergebnisse seiner Masterarbeit in einem Seminarvortrag öffentlich vor. Der Vortrag mit Diskussion soll 45 Minuten nicht überschreiten, wovon 30 Minuten der Vorstellung der Masterarbeit durch den Prüfling vorbehalten sind.
+
+## Weitere Prüfungsformen
+### Zu § 10 Abs. 13:
+Die schriftliche Ausarbeitung:
+Eine schriftliche Ausarbeitung kann Programmtext enthalten oder vollständig aus Programmtext bestehen. Sie kann aus mehreren Teilen bestehen, die zu festgelegten Stichtagen in einer vorgegebenen Form abzugeben sind. Die verantwortlich lehrende Person gibt in der Lehrveranstaltung Form, Abgabetermine und Bewertungskriterien bekannt.
+
+## Ausnahmen zur Prüfungswiederholung
+### Zu § 14 Abs. 3:
+Auf Antrag an den Prüfungsausschuss wird dem Prüfling eine zusätzliche dritte Wiederholung einer Modulprüfung gestattet, die er nach § 14 Abs. 3 nicht mehr wiederholen kann. Eine weitere Wiederholung dieser Modulprüfung und eine dritte Wiederholung bei mehr als einer Modulprüfung sind ausgeschlossen.
+
+## Masterarbeit: Themenstellung
+### Zu § 16 Abs. 3:
+Der Antrag auf Zulassung und Themenstellung für die Masterarbeit kann nur gestellt werden, sofern bereits 60 Leistungspunkte erworben wurden.
+
+### Zu § 16 Abs. 9:
+Die Masterarbeit muss spätestens sechs Monate nach Ausgabe des Themas abgegeben werden. Der schriftliche Umfang der Masterarbeit soll 80 Seiten nicht überschreiten.
+
+Auf begründeten Antrag kann der Prüfungsausschuss nach Anhörung des Betreuers die Bearbeitungsfrist für die Masterarbeit einmalig um höchstens vier Wochen verlängern. In dem Antrag sind die besonderen und vom Prüfling nicht zu vertretenden Umstände darzulegen, die eine rechtzeitige Fertigstellung der Masterarbeit verhindern. Dieser Antrag muss vor dem Abgabetermin beim Prüfungsausschuss eingereicht werden.
+
+## Stichtag für die Gültigkeit
+### Zu § 25 Abs. 1:
+Der Stichtag gemäß § 25 Abs. 1 ist der 30.09.2015.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+# Master AI & Data Science
+
+---
+
+# Fachspezifischer Anhang zur Prüfungsordnung „Master of Science“
+## für den Masterstudiengang Mathematik
+### an der Heinrich-Heine-Universität Düsseldorf
+
+## Zu § 3 Abs. 3: Gliederung des Studiengangs
+Der Masterstudiengang Mathematik gliedert sich in folgende Bereiche:
+
+| Bereich                          | Anzahl der Module | Leistungspunkte |
+|----------------------------------|-------------------|------------------|
+| Vertiefungsbereich               | 3                 | 23               |
+| Bereich Reine Mathematik         | mindestens 2      | ≥18              |
+| Bereich Angewandte Mathematik    | mindestens 2      | ≥18              |
+| Ergänzungsbereich                | mindestens 3      | ≥23              |
+| Masterarbeit                     | 1                 | 30               |
+| Schlüsselqualifikationen         | 2                 | ≥8               |
+
+Der Vertiefungsbereich besteht aus einer Vorlesungsreihe im Umfang von 18 Leistungspunkten sowie einem Seminar, das in einem inhaltlichen Zusammenhang zur Vorlesungsreihe stehen soll.
+
+Im Bereich Reine Mathematik müssen in mindestens zwei Modulen zur Reinen Mathematik 18 Leistungspunkte erreicht werden.
+
+Im Bereich Angewandte Mathematik müssen in mindestens zwei Modulen zur Angewandten Mathematik 18 Leistungspunkte erreicht werden.
+
+In den beiden Bereichen Reine Mathematik und Angewandte Mathematik müssen insgesamt mindestens 27 Leistungspunkte benotet sein.
+
+Im Ergänzungsbereich müssen 23 Leistungspunkte erworben werden. Wählbar sind Module aus der Mathematik oder einem Anwendungsfach. Dabei muss ein Seminar im Fach Mathematik absolviert werden. Es dürfen maximal 18 Leistungspunkte aus dem Lehrangebot eines Bachelorstudiengangs eingebracht werden.
+
+Als Anwendungsfach kann Informatik, Physik oder Wirtschaftswissenschaft sowie auf schriftlichen Antrag nach Genehmigung durch den Prüfungsausschuss auch ein anderes Fach (z. B. Biologie, Chemie, Philosophie oder Psychologie) gewählt werden. Die Wahl eines Anwendungsfachs ist nicht obligatorisch.
+
+Im Bereich Masterarbeit werden für die angenommene Masterarbeit 30 Leistungspunkte vergeben.
+
+Der Bereich Schlüsselqualifikationen besteht aus den Modulen „Techniken des wissenschaftlichen Arbeitens“ sowie „Sonstige Schlüsselqualifikationen“. In diesem Bereich werden keine Noten vergeben. Das Modul „Techniken des wissenschaftlichen Arbeitens“ dient zur Vorbereitung auf die Masterarbeit. Es kann zum Beispiel aus einem Lesekurs oder einem weiteren Seminar bestehen. In diesem Modul müssen 5 Leistungspunkte erreicht werden.
+
+Im Modul „Sonstige Schlüsselqualifikationen“ können beliebige an der Heinrich-Heine-Universität durchgeführte Lehrveranstaltungen oder betreute externe Praktika gewählt werden, die zu Fertigkeiten oder Kompetenzen führen, welche im Studium oder Berufsleben nützlich sind. Solche Veranstaltungen werden zum Beispiel im Rahmen des „Studium Universale“ angeboten. In diesem Modul müssen mindestens 3 Leistungspunkte erreicht werden.
+
+----
+
+HHU Amtliche Bekanntmachungen Nr. 53/2021
+
+---
+
+# Prüfungsordnung für den Masterstudiengang
+
+## Generelle Bestimmungen
+Generell können Module, die bereits für eine Bachelorprüfung verwendet wurden, imgang nicht nochmals angerechnet werden.
+
+## § 16 Masterarbeit: Themenstellung
+### Zu Abs. 2
+Das Thema der Masterarbeit kann auch mit Schwerpunkt im Anwendungsfach gestellt werden. In diesem Fall gibt es neben der/dem Betreuer/-in aus dem Fach Mathematik eine(n) weitere(n) Betreuer/-in aus dem Anwendungsfach, für den § 16 Abs. 2 entsprechend gilt. Im Vertiefungsbereich müssen dann, abweichend von der obigen Regelung zu § 3, mindestens 18 Leistungspunkte im Anwendungsfach, im Ergänzungsbereich mindestens 9 Leistungspunkte im Fach Mathematik absolviert werden. Bei der Bewertung der Masterarbeit sind die Betreuer aus dem Fach Mathematik Erstprüfende und die Betreuer aus dem Anwendungsfach Zweitprüfende.
+
+### Zu Abs. 3
+Der Antrag auf Zulassung und Themenstellung für die Masterarbeit kann nur gestellt werden, sofern bereits 60 Leistungspunkte erworben wurden.
+
+### Zu Abs. 9
+Die Masterarbeit muss sechs Monate nach Zulassung und Themenstellung abgegeben werden. Das Thema muss so gefasst werden, dass diese Bearbeitungszeit eingehalten werden kann, und soll in einem inhaltlichen Zusammenhang mit dem Vertiefungsbereich stehen. Der Umfang der Masterarbeit soll 100 Seiten zuzüglich Deckblätter und Inhaltsverzeichnis nicht überschreiten. Auf schriftlichen Antrag kann der Prüfungsausschuss nach Anhörung des Betreuers die Bearbeitungszeit einmalig um sechs Wochen verlängern. In dem Antrag müssen die besonderen und vom Prüfling nicht zu vertretenden Umstände dargelegt werden, die eine fristgerechte Abgabe der Masterarbeit verhindert haben.
+
+## § 21 Abs. 2: Gewichtung bei der Bildung der Gesamtnote
+Die Prüfungsnote zu jedem Modul wird gewichtet mit dem Quotienten aus der Anzahl der Punkte zum Modul und der Gesamtzahl der erreichten Leistungspunkte zu benoteten Modulen.
+
+## § 25 Abs. 1: Stichtag für die Gültigkeit
+Der Stichtag gemäß § 25 Abs. 1 ist der 30.09.2014.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
+**Legende:**
+- P: Pflichtmodul
+- WP: Wahlpflichtmodul
+- W: Wahlmodul
+
+Zur Gewichtung der Gesamtnote werden genau die angegebenen Zahlen verwendet, auch wenn in einem Bereich mehr als die mindestens verlangten Leistungspunkte erworben wurden. Das Notengewicht des Wahlbereichs und der Wahlpflichtbereiche richtet sich nach der Zahl der Leistungspunkte, die notierten Prüfungsleistungen zugeordnet sind.
+
+Im Modulhandbuch ist die Zuordnung der Module zu den Bereichen angegeben. Die aktuelle Version des Modulhandbuchs wird auf den Webseiten des Fachs Physik veröffentlicht.
+
+Der Wahlpflichtbereich Physik umfasst Wahlpflichtmodule aller physikalischen Bereiche, die an der Heinrich-Heine-Universität Düsseldorf angeboten werden. Es müssen vier Module gewählt werden, die im Modulhandbuch entsprechend gekennzeichnet sind. Insbesondere sind dies Module aus den Bereichen Weiche Materie, Plasmaphysik, Festkörper- und Nanophysik, Quantenoptik und Laserphysik sowie Computergestützte Physik. Die Module können nur dann gewählt werden, wenn entsprechende Kurse vom jeweiligen Studierenden nicht bereits in einem Bachelorstudiengang oder in einem anderen Bereich des Masterstudiengangs belegt wurden.
+
+Bis zu 6 Leistungspunkte können im Wahlbereich für die Absolvierung eines anwendungsbezogenen Praktikums in Verwaltung, Wirtschaft, Industrie, Kliniken oder in der wissenschaftlichen Forschung mit einer Dauer von mindestens vier Wochen angerechnet werden, sofern ein Dozent oder eine Dozentin der Wissenschaftlichen Einrichtung Physik als Betreuerin oder Betreuer fungiert, die/der das Praktikum im Voraus als anrechenbar genehmigt und der/dem nach dem Abschluss ein schriftlicher Bericht gelegt wird.
+
+----
+
+**HHU Amtliche Bekanntmachungen Nr. 53/2021**
+
+---
+
