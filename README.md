@@ -1,77 +1,38 @@
-# Extracting Useful Question–Answer Pairs from Examination Regulations
-### Bachelor Thesis Project – NLP & LLM Applications
+# 🎓 UniBot: RAG-based Academic Advisor & QA Extraction Pipeline
 
----
+<video src="assets/demo.mp4" width="100%" controls></video>
 
-## 🎓 Thesis Context
+## 📌 Overview
+This project is an end-to-end **Retrieval-Augmented Generation (RAG) system** designed to help university students navigate complex examination regulations (Prüfungsordnungen). 
 
-This project was developed as a **Bachelor Thesis** focused on **Natural Language Processing (NLP)** and **LLM applications**. It demonstrates how automated pipelines can transform dense academic regulations into user-friendly knowledge bases.
+Instead of just vectorizing raw PDFs, this project features a **sophisticated synthetic data generation pipeline** that uses LLMs to extract, evaluate, and filter High-Quality QA pairs from legal documents, resulting in a dual-tier RAG system.
 
-**Author:** Mohamed Taher Boujnah
+## 🏗️ Architecture & Pipeline
+The project runs a 9-step pipeline, transforming raw legal PDFs into a smart, conversational assistant:
 
----
+1. **PDF Parsing:** Uses `LlamaParse` (via REST API) to convert dense academic PDFs into clean Markdown.
+2. **Markdown Cleaning:** Rule-based Python scripts (`clean_markdown.py`) scrub out irrelevant sections (e.g., other degree programs) to prevent hallucinations.
+3. **Context-Aware Chunking:** Deterministic legal chunking (`chunk_examregs.py`) bundles sections, paragraphs, and rules together.
+4. **Semantic Filtering:** Uses **DSPy + Gemma 2 (2B)** to drop bureaucratic fluff and keep only actionable academic rules.
+5. **Synthetic FAQ Generation:** Uses **DSPy + Gemma 3 (27B)** to generate realistic student questions and answers based strictly on the text.
+6. **Semantic Deduplication:** Uses `sentence-transformers` (`intfloat/multilingual-e5-large`) to filter out semantically duplicate FAQs.
+7. **LLM-as-a-Judge Validation:** Uses **DSPy + Llama 3.1 (8B)** as a strict university auditor to grade the generated FAQs (1-5 scale), dropping any hallucinations.
+8. **Vector Database:** Compiles the surviving Gold FAQs and Raw Chunks into a dual-tier **ChromaDB** index.
+9. **Streamlit UI:** A responsive chat interface (`app.py`) where students can ask questions and get cited answers.
 
-This project implements an automated pipeline to transform lengthy, complex university examination regulations into structured, searchable Question–Answer (QA) pairs. The system is designed to help students navigate academic policies through a retrieval-based chatbot interface.
+## 🚀 Tech Stack
+* **UI:** Streamlit
+* **Orchestration:** DSPy
+* **Local LLMs:** Ollama (Gemma 3:27b, Gemma 2:2b, Llama 3.1:8b)
+* **Vector DB & Embeddings:** ChromaDB, Sentence Transformers
+* **Document Parsing:** LlamaCloud / LlamaParse
 
----
+## ⚙️ Setup & Installation
 
-## 🚀 Project Overview
-University examination regulations contain critical information about exams, grading, and retakes, but are often difficult to navigate. This project provides a complete NLP pipeline to:
-* **Process** regulation documents and extract structured segments.
-* **Generate** candidate QA pairs using local Large Language Models (LLMs) like Gemma, Llama, and Qwen.
-* **Filter and evaluate** outputs against a manually curated "gold" dataset.
-* **Deploy** a predefined retrieval based chatbot
+### 1. Clone the repository
+```bash
+git clone [https://github.com/TaherBoujnah/Extracting-Useful-QA-Pairs-from-Examination-Regulations.git](https://github.com/TaherBoujnah/Extracting-Useful-QA-Pairs-from-Examination-Regulations.git)
+cd Extracting-Useful-QA-Pairs-from-Examination-Regulations
 
----
-
-## 🏗 Pipeline Architecture
-The system follows a modular multi-stage pipeline:
-1. **Preprocessing:** Normalizes formatting and converts documents into structured Markdown.
-2. **Chunking:** Splits regulations into meaningful sections while preserving metadata like section names and page numbers.
-3. **QA Generation:** Uses local LLMs with strategies like `Hybrid` and `Slow/HQ` to create FAQ pairs.
-4. **Retrieval:** Embeds FAQ questions and uses cosine similarity to match user queries.
-5. **Interface:** An interactive assistant that retrieves answers based on semantic similarity.
-
----
-
-## 📊 Evaluation & Results
-The project evaluates several models to find the best balance between accuracy and generation speed.
-
-### Model Performance Summary (10 Seeds)
-Based on experimental data, **Qwen 2.5 (7B)** using the **Hybrid** strategy achieved the highest success rate.
-
-| Model & Strategy | Accuracy Success Rate | Coverage | Hallucination Rate | Runtime (sec) |
-| :--- | :---: | :---: | :---: | :---: |
-| **Qwen 2.5 7B (Hybrid)** | **41.67%** | **31.36%** | 58.51% | 396.67 |
-| Llama 3.1 8B (Slow HQ) | 30.00% | 26.27% | 63.64% | 366.72 |
-| Gemma 3 4B (Hybrid) | 28.33% | 27.12% | 75.21% | 380.85 |
-
-> *Source: data/plots/10seeds/summary_table.json*
-
-### Visualizations
-Below are the key visualizations generated during the research phase:
-
-**Clustering of QA Pairs**
-![Cluster Overview](data/plots/lda_cluster_circles.png)
-
-**Model Accuracy Comparison**
-![Accuracy Success Rate](data/plots/10seeds/accuracy_success_rate.png)
-
----
-
-## 📁 Repository Structure
-```text
-.
-├── backend/            # Core logic (API, Indexer, Generation)
-│   ├── qa/             # Hybrid and Slow/HQ generation scripts
-│   ├── evaluation/     # Metrics and evaluation scripts
-│   └── retrieval/      # Embedding-based retrieval logic
-├── hainrich-master/    # Chatbot interface 
-├── data/               
-│   ├── gold/           # Human-curated reference dataset
-│   ├── final/          # Final selected FAQ pairs
-│   ├── generated/      # Raw LLM outputs
-│   └── plots/          # Performance and cluster visualizations
-└── requirements.txt    # Project dependencies
 
 
