@@ -1,6 +1,6 @@
 # 🎓 UniBot: RAG-based Academic Advisor & QA Extraction Pipeline
 
-<video src="assets/demo.mp4" width="100%" controls></video>
+<video src="assets/demo1.mp4" width="100%" controls></video>
 
 ## 📌 Overview
 This project is an end-to-end **Retrieval-Augmented Generation (RAG) system** designed to help university students navigate complex examination regulations (Prüfungsordnungen). 
