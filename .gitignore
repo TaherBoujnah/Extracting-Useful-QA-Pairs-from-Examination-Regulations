@@ -1,23 +1,16 @@
-# Python
+# Ignore vector database
+data/chroma_db/
+
+# Ignore intermediate data files (optional, but recommended if they are huge)
+data/parsed_regulations.md
+data/cleaned_informatik_regulations.md
+data/structured_chunks.jsonl
+data/final_hybrid_chunks.jsonl
+data/synthetic_faqs.jsonl
+data/filtered_faqs.jsonl
+
+# Python artifacts
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environments
-.venv/
 venv/
-
-# Python packaging
-dist/
-build/
-*.egg-info/
-
-# VSCode
-.vscode/
-
-# Mac
-.DS_Store
-
-# logs
-*.log
+.env
